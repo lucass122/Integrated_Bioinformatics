@@ -1,0 +1,497 @@
+ENSMUSG00000089409	predicted gene, 24884 [Source:MGI Symbol;Acc:MGI:5454661]			Gm24884
+ENSMUSG00000077607	predicted gene, 25803 [Source:MGI Symbol;Acc:MGI:5455580]			Gm25803
+ENSMUSG00000064687	predicted gene, 25811 [Source:MGI Symbol;Acc:MGI:5455588]			Gm25811
+ENSMUSG00000077597	predicted gene, 26017 [Source:MGI Symbol;Acc:MGI:5455794]			Gm26017
+ENSMUSG00000096801	predicted gene, 23412 [Source:MGI Symbol;Acc:MGI:5453189]			Gm23412
+ENSMUSG00000092661	predicted gene, 22402 [Source:MGI Symbol;Acc:MGI:5452179]			Gm22402
+ENSMUSG00000099334	predicted gene, 26379 [Source:MGI Symbol;Acc:MGI:5456156]			Gm26379
+ENSMUSG00000081048	predicted gene 11760 [Source:MGI Symbol;Acc:MGI:3651479]			Gm11760
+ENSMUSG00000083767	predicted gene 11405 [Source:MGI Symbol;Acc:MGI:3651226]			Gm11405
+ENSMUSG00000028397	lysine (K)-specific demethylase 4C [Source:MGI Symbol;Acc:MGI:1924054]	increased circulating serum albumin level	C57BL/6NTac	Kdm4c
+ENSMUSG00000028397	lysine (K)-specific demethylase 4C [Source:MGI Symbol;Acc:MGI:1924054]	increased circulating calcium level	C57BL/6NTac	Kdm4c
+ENSMUSG00000028397	lysine (K)-specific demethylase 4C [Source:MGI Symbol;Acc:MGI:1924054]	increased B cell number	C57BL/6NTac	Kdm4c
+ENSMUSG00000028397	lysine (K)-specific demethylase 4C [Source:MGI Symbol;Acc:MGI:1924054]	decreased hematocrit	C57BL/6N	Kdm4c
+ENSMUSG00000028397	lysine (K)-specific demethylase 4C [Source:MGI Symbol;Acc:MGI:1924054]	decreased hemoglobin content	C57BL/6N	Kdm4c
+ENSMUSG00000028397	lysine (K)-specific demethylase 4C [Source:MGI Symbol;Acc:MGI:1924054]	decreased body weight	C57BL/6NTac	Kdm4c
+ENSMUSG00000028397	lysine (K)-specific demethylase 4C [Source:MGI Symbol;Acc:MGI:1924054]	decreased body weight	C57BL/6N	Kdm4c
+ENSMUSG00000028397	lysine (K)-specific demethylase 4C [Source:MGI Symbol;Acc:MGI:1924054]	decreased thermal nociceptive threshold	C57BL/6N	Kdm4c
+ENSMUSG00000028397	lysine (K)-specific demethylase 4C [Source:MGI Symbol;Acc:MGI:1924054]	decreased thermal nociceptive threshold	C57BL/6N	Kdm4c
+ENSMUSG00000028397	lysine (K)-specific demethylase 4C [Source:MGI Symbol;Acc:MGI:1924054]	decreased lactate dehydrogenase level	C57BL/6N	Kdm4c
+ENSMUSG00000028397	lysine (K)-specific demethylase 4C [Source:MGI Symbol;Acc:MGI:1924054]	enlarged sebaceous gland		Kdm4c
+ENSMUSG00000028397	lysine (K)-specific demethylase 4C [Source:MGI Symbol;Acc:MGI:1924054]	eyelids fail to open		Kdm4c
+ENSMUSG00000028397	lysine (K)-specific demethylase 4C [Source:MGI Symbol;Acc:MGI:1924054]	abnormal iris morphology		Kdm4c
+ENSMUSG00000028397	lysine (K)-specific demethylase 4C [Source:MGI Symbol;Acc:MGI:1924054]	decreased NK cell number		Kdm4c
+ENSMUSG00000028397	lysine (K)-specific demethylase 4C [Source:MGI Symbol;Acc:MGI:1924054]	decreased hemoglobin content		Kdm4c
+ENSMUSG00000028397	lysine (K)-specific demethylase 4C [Source:MGI Symbol;Acc:MGI:1924054]	abnormal behavior		Kdm4c
+ENSMUSG00000028397	lysine (K)-specific demethylase 4C [Source:MGI Symbol;Acc:MGI:1924054]	decreased mean corpuscular hemoglobin		Kdm4c
+ENSMUSG00000028397	lysine (K)-specific demethylase 4C [Source:MGI Symbol;Acc:MGI:1924054]	abnormal respiratory quotient		Kdm4c
+ENSMUSG00000028397	lysine (K)-specific demethylase 4C [Source:MGI Symbol;Acc:MGI:1924054]	other aberrant phenotype		Kdm4c
+ENSMUSG00000028397	lysine (K)-specific demethylase 4C [Source:MGI Symbol;Acc:MGI:1924054]	abnormal pupil morphology		Kdm4c
+ENSMUSG00000028397	lysine (K)-specific demethylase 4C [Source:MGI Symbol;Acc:MGI:1924054]	abnormal placement of pupils		Kdm4c
+ENSMUSG00000028397	lysine (K)-specific demethylase 4C [Source:MGI Symbol;Acc:MGI:1924054]	decreased hematocrit		Kdm4c
+ENSMUSG00000028397	lysine (K)-specific demethylase 4C [Source:MGI Symbol;Acc:MGI:1924054]	abnormal blastocyst formation		Kdm4c
+ENSMUSG00000028397	lysine (K)-specific demethylase 4C [Source:MGI Symbol;Acc:MGI:1924054]	histone H3-K9 demethylation		Kdm4c
+ENSMUSG00000028397	lysine (K)-specific demethylase 4C [Source:MGI Symbol;Acc:MGI:1924054]	negative regulation of gene expression epigenetic		Kdm4c
+ENSMUSG00000085482	RIKEN cDNA A230083N12 gene [Source:MGI Symbol;Acc:MGI:3698879]			A230083N12Rik
+ENSMUSG00000082969	predicted gene 12630 [Source:MGI Symbol;Acc:MGI:3650968]			Gm12630
+ENSMUSG00000038024	DENN/MADD domain containing 4C [Source:MGI Symbol;Acc:MGI:1914769]	preweaning lethality complete penetrance	C57BL/6N	Dennd4c
+ENSMUSG00000038024	DENN/MADD domain containing 4C [Source:MGI Symbol;Acc:MGI:1914769]	preweaning lethality complete penetrance	C57BL/6N	Dennd4c
+ENSMUSG00000038024	DENN/MADD domain containing 4C [Source:MGI Symbol;Acc:MGI:1914769]	prenatal lethality prior to heart atrial septation	C57BL/6N	Dennd4c
+ENSMUSG00000038024	DENN/MADD domain containing 4C [Source:MGI Symbol;Acc:MGI:1914769]	decreased effector memory CD8-positive alpha-beta T cell number	C57BL/6N	Dennd4c
+ENSMUSG00000038024	DENN/MADD domain containing 4C [Source:MGI Symbol;Acc:MGI:1914769]	decreased effector memory CD8-positive alpha-beta T cell number	C57BL/6N	Dennd4c
+ENSMUSG00000038024	DENN/MADD domain containing 4C [Source:MGI Symbol;Acc:MGI:1914769]	preweaning lethality complete penetrance		Dennd4c
+ENSMUSG00000038024	DENN/MADD domain containing 4C [Source:MGI Symbol;Acc:MGI:1914769]	cellular response to insulin stimulus		Dennd4c
+ENSMUSG00000038024	DENN/MADD domain containing 4C [Source:MGI Symbol;Acc:MGI:1914769]	establishment of protein localization to plasma membrane		Dennd4c
+ENSMUSG00000081438	predicted gene 11254 [Source:MGI Symbol;Acc:MGI:3649979]			Gm11254
+ENSMUSG00000083659	predicted gene 11258 [Source:MGI Symbol;Acc:MGI:3649983]			Gm11258
+ENSMUSG00000028495	ribosomal protein S6 [Source:MGI Symbol;Acc:MGI:98159]	decreased circulating insulin level		Rps6
+ENSMUSG00000028495	ribosomal protein S6 [Source:MGI Symbol;Acc:MGI:98159]	abnormal pancreatic beta cell morphology		Rps6
+ENSMUSG00000028495	ribosomal protein S6 [Source:MGI Symbol;Acc:MGI:98159]	abnormal cell cycle		Rps6
+ENSMUSG00000028495	ribosomal protein S6 [Source:MGI Symbol;Acc:MGI:98159]	abnormal pancreatic islet morphology		Rps6
+ENSMUSG00000028495	ribosomal protein S6 [Source:MGI Symbol;Acc:MGI:98159]	abnormal cell morphology		Rps6
+ENSMUSG00000028495	ribosomal protein S6 [Source:MGI Symbol;Acc:MGI:98159]	increased insulin sensitivity		Rps6
+ENSMUSG00000028495	ribosomal protein S6 [Source:MGI Symbol;Acc:MGI:98159]	abnormal cell physiology		Rps6
+ENSMUSG00000028495	ribosomal protein S6 [Source:MGI Symbol;Acc:MGI:98159]	decreased insulin secretion		Rps6
+ENSMUSG00000028495	ribosomal protein S6 [Source:MGI Symbol;Acc:MGI:98159]	abnormal hepatocyte morphology		Rps6
+ENSMUSG00000028495	ribosomal protein S6 [Source:MGI Symbol;Acc:MGI:98159]	impaired glucose tolerance		Rps6
+ENSMUSG00000028495	ribosomal protein S6 [Source:MGI Symbol;Acc:MGI:98159]	G1/S transition of mitotic cell cycle		Rps6
+ENSMUSG00000028495	ribosomal protein S6 [Source:MGI Symbol;Acc:MGI:98159]	T cell differentiation in thymus		Rps6
+ENSMUSG00000028495	ribosomal protein S6 [Source:MGI Symbol;Acc:MGI:98159]	T cell proliferation involved in immune response		Rps6
+ENSMUSG00000028495	ribosomal protein S6 [Source:MGI Symbol;Acc:MGI:98159]	decreased activation-induced cell death of T cells		Rps6
+ENSMUSG00000028495	ribosomal protein S6 [Source:MGI Symbol;Acc:MGI:98159]	enucleate erythrocyte development		Rps6
+ENSMUSG00000028495	ribosomal protein S6 [Source:MGI Symbol;Acc:MGI:98159]	cell migration involved in gastrulation		Rps6
+ENSMUSG00000028495	ribosomal protein S6 [Source:MGI Symbol;Acc:MGI:98159]	mitotic cell cycle checkpoint		Rps6
+ENSMUSG00000028495	ribosomal protein S6 [Source:MGI Symbol;Acc:MGI:98159]	mitotic nuclear division		Rps6
+ENSMUSG00000028495	ribosomal protein S6 [Source:MGI Symbol;Acc:MGI:98159]	negative regulation of apoptotic process		Rps6
+ENSMUSG00000028495	ribosomal protein S6 [Source:MGI Symbol;Acc:MGI:98159]	oogenesis stage		Rps6
+ENSMUSG00000028495	ribosomal protein S6 [Source:MGI Symbol;Acc:MGI:98159]	abnormal placenta development		Rps6
+ENSMUSG00000028495	ribosomal protein S6 [Source:MGI Symbol;Acc:MGI:98159]	rRNA processing		Rps6
+ENSMUSG00000028495	ribosomal protein S6 [Source:MGI Symbol;Acc:MGI:98159]	ribosomal small subunit biogenesis		Rps6
+ENSMUSG00000082533	predicted gene 11253 [Source:MGI Symbol;Acc:MGI:3649981]			Gm11253
+ENSMUSG00000084311	predicted gene 11257 [Source:MGI Symbol;Acc:MGI:3649985]			Gm11257
+ENSMUSG00000081067	predicted gene 12912 [Source:MGI Symbol;Acc:MGI:3649320]			Gm12912
+ENSMUSG00000028398	transmembrane protein 261 [Source:MGI Symbol;Acc:MGI:1914178]			Tmem261
+ENSMUSG00000038007	alkaline ceramidase 2 [Source:MGI Symbol;Acc:MGI:1920932]			Acer2
+ENSMUSG00000083224	predicted gene 11255 [Source:MGI Symbol;Acc:MGI:3649873]			Gm11255
+ENSMUSG00000084026	predicted gene 11259 [Source:MGI Symbol;Acc:MGI:3649975]			Gm11259
+ENSMUSG00000084253	predicted gene 11256 [Source:MGI Symbol;Acc:MGI:3650655]			Gm11256
+ENSMUSG00000081844	predicted gene 11241 [Source:MGI Symbol;Acc:MGI:3652121]			Gm11241
+ENSMUSG00000037996	solute carrier family 24 (sodium/potassium/calcium exchanger), member 2 [Source:MGI Symbol;Acc:MGI:1923626]	abnormal motor learning		Slc24a2
+ENSMUSG00000037996	solute carrier family 24 (sodium/potassium/calcium exchanger), member 2 [Source:MGI Symbol;Acc:MGI:1923626]	abnormal long term depression		Slc24a2
+ENSMUSG00000037996	solute carrier family 24 (sodium/potassium/calcium exchanger), member 2 [Source:MGI Symbol;Acc:MGI:1923626]	reduced long term potentiation		Slc24a2
+ENSMUSG00000037996	solute carrier family 24 (sodium/potassium/calcium exchanger), member 2 [Source:MGI Symbol;Acc:MGI:1923626]	abnormal spatial learning		Slc24a2
+ENSMUSG00000037996	solute carrier family 24 (sodium/potassium/calcium exchanger), member 2 [Source:MGI Symbol;Acc:MGI:1923626]	abnormal calcium ion homeostasis		Slc24a2
+ENSMUSG00000037996	solute carrier family 24 (sodium/potassium/calcium exchanger), member 2 [Source:MGI Symbol;Acc:MGI:1923626]	cellular calcium ion homeostasis		Slc24a2
+ENSMUSG00000037996	solute carrier family 24 (sodium/potassium/calcium exchanger), member 2 [Source:MGI Symbol;Acc:MGI:1923626]	impaired spatial learning		Slc24a2
+ENSMUSG00000037996	solute carrier family 24 (sodium/potassium/calcium exchanger), member 2 [Source:MGI Symbol;Acc:MGI:1923626]	long term synaptic depression		Slc24a2
+ENSMUSG00000037996	solute carrier family 24 (sodium/potassium/calcium exchanger), member 2 [Source:MGI Symbol;Acc:MGI:1923626]	long-term synaptic potentiation		Slc24a2
+ENSMUSG00000037996	solute carrier family 24 (sodium/potassium/calcium exchanger), member 2 [Source:MGI Symbol;Acc:MGI:1923626]	fast extinction of fear memory		Slc24a2
+ENSMUSG00000086512	predicted gene 12600 [Source:MGI Symbol;Acc:MGI:3651471]			Gm12600
+ENSMUSG00000082443	predicted gene 12604 [Source:MGI Symbol;Acc:MGI:3651368]			Gm12604
+ENSMUSG00000028496	myeloid/lymphoid or mixed-lineage leukemia; translocated to, 3 [Source:MGI Symbol;Acc:MGI:1917372]	increased circulating alanine transaminase level	C57BL/6NTac	Mllt3
+ENSMUSG00000028496	myeloid/lymphoid or mixed-lineage leukemia; translocated to, 3 [Source:MGI Symbol;Acc:MGI:1917372]	increased circulating alanine transaminase level	C57BL/6NTac	Mllt3
+ENSMUSG00000028496	myeloid/lymphoid or mixed-lineage leukemia; translocated to, 3 [Source:MGI Symbol;Acc:MGI:1917372]	preweaning lethality complete penetrance	C57BL/6NTac	Mllt3
+ENSMUSG00000028496	myeloid/lymphoid or mixed-lineage leukemia; translocated to, 3 [Source:MGI Symbol;Acc:MGI:1917372]	preweaning lethality complete penetrance	C57BL/6NTac	Mllt3
+ENSMUSG00000028496	myeloid/lymphoid or mixed-lineage leukemia; translocated to, 3 [Source:MGI Symbol;Acc:MGI:1917372]	hyperactivity	C57BL/6NTac	Mllt3
+ENSMUSG00000028496	myeloid/lymphoid or mixed-lineage leukemia; translocated to, 3 [Source:MGI Symbol;Acc:MGI:1917372]	hyperactivity	C57BL/6NTac	Mllt3
+ENSMUSG00000028496	myeloid/lymphoid or mixed-lineage leukemia; translocated to, 3 [Source:MGI Symbol;Acc:MGI:1917372]	postnatal lethality complete penetrance		Mllt3
+ENSMUSG00000028496	myeloid/lymphoid or mixed-lineage leukemia; translocated to, 3 [Source:MGI Symbol;Acc:MGI:1917372]	perinatal lethality incomplete penetrance		Mllt3
+ENSMUSG00000028496	myeloid/lymphoid or mixed-lineage leukemia; translocated to, 3 [Source:MGI Symbol;Acc:MGI:1917372]	preweaning lethality complete penetrance		Mllt3
+ENSMUSG00000028496	myeloid/lymphoid or mixed-lineage leukemia; translocated to, 3 [Source:MGI Symbol;Acc:MGI:1917372]	decreased rib number		Mllt3
+ENSMUSG00000028496	myeloid/lymphoid or mixed-lineage leukemia; translocated to, 3 [Source:MGI Symbol;Acc:MGI:1917372]	thoracic vertebral transformation		Mllt3
+ENSMUSG00000028496	myeloid/lymphoid or mixed-lineage leukemia; translocated to, 3 [Source:MGI Symbol;Acc:MGI:1917372]	abnormal sternum ossification		Mllt3
+ENSMUSG00000028496	myeloid/lymphoid or mixed-lineage leukemia; translocated to, 3 [Source:MGI Symbol;Acc:MGI:1917372]	abnormal cervical vertebrae morphology		Mllt3
+ENSMUSG00000028496	myeloid/lymphoid or mixed-lineage leukemia; translocated to, 3 [Source:MGI Symbol;Acc:MGI:1917372]	vertebral transformation		Mllt3
+ENSMUSG00000028496	myeloid/lymphoid or mixed-lineage leukemia; translocated to, 3 [Source:MGI Symbol;Acc:MGI:1917372]	abnormal vertebral column morphology		Mllt3
+ENSMUSG00000028496	myeloid/lymphoid or mixed-lineage leukemia; translocated to, 3 [Source:MGI Symbol;Acc:MGI:1917372]	abnormal developmental patterning		Mllt3
+ENSMUSG00000028496	myeloid/lymphoid or mixed-lineage leukemia; translocated to, 3 [Source:MGI Symbol;Acc:MGI:1917372]	decreased body size		Mllt3
+ENSMUSG00000028496	myeloid/lymphoid or mixed-lineage leukemia; translocated to, 3 [Source:MGI Symbol;Acc:MGI:1917372]	asymmetric rib-sternum attachment		Mllt3
+ENSMUSG00000028496	myeloid/lymphoid or mixed-lineage leukemia; translocated to, 3 [Source:MGI Symbol;Acc:MGI:1917372]	abnormal cervical rib		Mllt3
+ENSMUSG00000028496	myeloid/lymphoid or mixed-lineage leukemia; translocated to, 3 [Source:MGI Symbol;Acc:MGI:1917372]	decreased thoracic vertebrae number		Mllt3
+ENSMUSG00000028496	myeloid/lymphoid or mixed-lineage leukemia; translocated to, 3 [Source:MGI Symbol;Acc:MGI:1917372]	abnormal thoracic vertebrae morphology		Mllt3
+ENSMUSG00000028496	myeloid/lymphoid or mixed-lineage leukemia; translocated to, 3 [Source:MGI Symbol;Acc:MGI:1917372]	abnormal cervical atlas morphology		Mllt3
+ENSMUSG00000028496	myeloid/lymphoid or mixed-lineage leukemia; translocated to, 3 [Source:MGI Symbol;Acc:MGI:1917372]	cervical vertebral transformation		Mllt3
+ENSMUSG00000028496	myeloid/lymphoid or mixed-lineage leukemia; translocated to, 3 [Source:MGI Symbol;Acc:MGI:1917372]	abnormal sternum morphology		Mllt3
+ENSMUSG00000028496	myeloid/lymphoid or mixed-lineage leukemia; translocated to, 3 [Source:MGI Symbol;Acc:MGI:1917372]	abnormal cervical axis morphology		Mllt3
+ENSMUSG00000028496	myeloid/lymphoid or mixed-lineage leukemia; translocated to, 3 [Source:MGI Symbol;Acc:MGI:1917372]	neonatal lethality incomplete penetrance		Mllt3
+ENSMUSG00000028496	myeloid/lymphoid or mixed-lineage leukemia; translocated to, 3 [Source:MGI Symbol;Acc:MGI:1917372]	cervical vertebral fusion		Mllt3
+ENSMUSG00000028496	myeloid/lymphoid or mixed-lineage leukemia; translocated to, 3 [Source:MGI Symbol;Acc:MGI:1917372]	abnormal spine curvature		Mllt3
+ENSMUSG00000028496	myeloid/lymphoid or mixed-lineage leukemia; translocated to, 3 [Source:MGI Symbol;Acc:MGI:1917372]	anterior/posterior pattern specification		Mllt3
+ENSMUSG00000028496	myeloid/lymphoid or mixed-lineage leukemia; translocated to, 3 [Source:MGI Symbol;Acc:MGI:1917372]	segment specification		Mllt3
+ENSMUSG00000084809	predicted gene 12631 [Source:MGI Symbol;Acc:MGI:3650969]			Gm12631
+ENSMUSG00000081656	predicted gene 11246 [Source:MGI Symbol;Acc:MGI:3651881]			Gm11246
+ENSMUSG00000110373				RP24-316B1.1
+ENSMUSG00000081936	predicted gene 11244 [Source:MGI Symbol;Acc:MGI:3651883]			Gm11244
+ENSMUSG00000028399	protein tyrosine phosphatase, receptor type, D [Source:MGI Symbol;Acc:MGI:97812]	enhanced long term potentiation		Ptprd
+ENSMUSG00000028399	protein tyrosine phosphatase, receptor type, D [Source:MGI Symbol;Acc:MGI:97812]	abnormal spatial learning		Ptprd
+ENSMUSG00000028399	protein tyrosine phosphatase, receptor type, D [Source:MGI Symbol;Acc:MGI:97812]	impaired swimming		Ptprd
+ENSMUSG00000028399	protein tyrosine phosphatase, receptor type, D [Source:MGI Symbol;Acc:MGI:97812]	enhanced paired-pulse facilitation		Ptprd
+ENSMUSG00000028399	protein tyrosine phosphatase, receptor type, D [Source:MGI Symbol;Acc:MGI:97812]	premature death		Ptprd
+ENSMUSG00000028399	protein tyrosine phosphatase, receptor type, D [Source:MGI Symbol;Acc:MGI:97812]	abnormal eating behavior		Ptprd
+ENSMUSG00000028399	protein tyrosine phosphatase, receptor type, D [Source:MGI Symbol;Acc:MGI:97812]	decreased body weight		Ptprd
+ENSMUSG00000028399	protein tyrosine phosphatase, receptor type, D [Source:MGI Symbol;Acc:MGI:97812]	negative regulation of JAK-STAT cascade		Ptprd
+ENSMUSG00000028399	protein tyrosine phosphatase, receptor type, D [Source:MGI Symbol;Acc:MGI:97812]	positive regulation of dendrite morphogenesis		Ptprd
+ENSMUSG00000028399	protein tyrosine phosphatase, receptor type, D [Source:MGI Symbol;Acc:MGI:97812]	presynaptic membrane assembly		Ptprd
+ENSMUSG00000028399	protein tyrosine phosphatase, receptor type, D [Source:MGI Symbol;Acc:MGI:97812]	positive regulation of immune response		Ptprd
+ENSMUSG00000092492	RIKEN cDNA B230208B08 gene [Source:MGI Symbol;Acc:MGI:2442149]			B230208B08Rik
+ENSMUSG00000081890	predicted gene 11243 [Source:MGI Symbol;Acc:MGI:3652116]			Gm11243
+ENSMUSG00000080780	predicted gene 11252 [Source:MGI Symbol;Acc:MGI:3651309]			Gm11252
+ENSMUSG00000084090	predicted gene 11245 [Source:MGI Symbol;Acc:MGI:3651884]			Gm11245
+ENSMUSG00000083050	predicted gene 11242 [Source:MGI Symbol;Acc:MGI:3652117]			Gm11242
+ENSMUSG00000028402	multiple PDZ domain protein [Source:MGI Symbol;Acc:MGI:1343489]			Mpdz
+ENSMUSG00000081391	predicted gene 11765 [Source:MGI Symbol;Acc:MGI:3651002]			Gm11765
+ENSMUSG00000083385	predicted gene 11411 [Source:MGI Symbol;Acc:MGI:3650904]			Gm11411
+ENSMUSG00000087540	predicted gene 11412 [Source:MGI Symbol;Acc:MGI:3650905]			Gm11412
+ENSMUSG00000087608	predicted gene 12914 [Source:MGI Symbol;Acc:MGI:3650483]			Gm12914
+ENSMUSG00000087110	predicted gene 11264 [Source:MGI Symbol;Acc:MGI:3649480]			Gm11264
+ENSMUSG00000085022	predicted gene 5860 [Source:MGI Symbol;Acc:MGI:3646172]			Gm5860
+ENSMUSG00000087413	predicted gene 11266 [Source:MGI Symbol;Acc:MGI:3649705]			Gm11266
+ENSMUSG00000084851	predicted gene 11267 [Source:MGI Symbol;Acc:MGI:3649847]			Gm11267
+ENSMUSG00000008575	nuclear factor I/B [Source:MGI Symbol;Acc:MGI:103188]	increased wet-to-dry lung weight ratio		Nfib
+ENSMUSG00000008575	nuclear factor I/B [Source:MGI Symbol;Acc:MGI:103188]	abnormal lung morphology		Nfib
+ENSMUSG00000008575	nuclear factor I/B [Source:MGI Symbol;Acc:MGI:103188]	impaired branching involved in terminal bronchiole morphogenesis		Nfib
+ENSMUSG00000008575	nuclear factor I/B [Source:MGI Symbol;Acc:MGI:103188]	respiratory distress		Nfib
+ENSMUSG00000008575	nuclear factor I/B [Source:MGI Symbol;Acc:MGI:103188]	atelectasis		Nfib
+ENSMUSG00000008575	nuclear factor I/B [Source:MGI Symbol;Acc:MGI:103188]	abnormal lung development		Nfib
+ENSMUSG00000008575	nuclear factor I/B [Source:MGI Symbol;Acc:MGI:103188]	pulmonary hypoplasia		Nfib
+ENSMUSG00000008575	nuclear factor I/B [Source:MGI Symbol;Acc:MGI:103188]	failure of eyelid fusion		Nfib
+ENSMUSG00000008575	nuclear factor I/B [Source:MGI Symbol;Acc:MGI:103188]	cyanosis		Nfib
+ENSMUSG00000008575	nuclear factor I/B [Source:MGI Symbol;Acc:MGI:103188]	abnormal respiration		Nfib
+ENSMUSG00000008575	nuclear factor I/B [Source:MGI Symbol;Acc:MGI:103188]	eyelids open at birth		Nfib
+ENSMUSG00000008575	nuclear factor I/B [Source:MGI Symbol;Acc:MGI:103188]	abnormal respiratory system physiology		Nfib
+ENSMUSG00000008575	nuclear factor I/B [Source:MGI Symbol;Acc:MGI:103188]	absent cerebellar foliation		Nfib
+ENSMUSG00000008575	nuclear factor I/B [Source:MGI Symbol;Acc:MGI:103188]	abnormal hippocampal fimbria morphology		Nfib
+ENSMUSG00000008575	nuclear factor I/B [Source:MGI Symbol;Acc:MGI:103188]	absent lung saccules		Nfib
+ENSMUSG00000008575	nuclear factor I/B [Source:MGI Symbol;Acc:MGI:103188]	abnormal major salivary gland morphology		Nfib
+ENSMUSG00000008575	nuclear factor I/B [Source:MGI Symbol;Acc:MGI:103188]	decreased fetal size		Nfib
+ENSMUSG00000008575	nuclear factor I/B [Source:MGI Symbol;Acc:MGI:103188]	absent dentate gyrus		Nfib
+ENSMUSG00000008575	nuclear factor I/B [Source:MGI Symbol;Acc:MGI:103188]	abnormal cerebellar granule cell morphology		Nfib
+ENSMUSG00000008575	nuclear factor I/B [Source:MGI Symbol;Acc:MGI:103188]	abnormal glial cell morphology		Nfib
+ENSMUSG00000008575	nuclear factor I/B [Source:MGI Symbol;Acc:MGI:103188]	abnormal hippocampus development		Nfib
+ENSMUSG00000008575	nuclear factor I/B [Source:MGI Symbol;Acc:MGI:103188]	decreased submandibular gland size		Nfib
+ENSMUSG00000008575	nuclear factor I/B [Source:MGI Symbol;Acc:MGI:103188]	submandibular gland hypoplasia		Nfib
+ENSMUSG00000008575	nuclear factor I/B [Source:MGI Symbol;Acc:MGI:103188]	enlarged brain ventricles		Nfib
+ENSMUSG00000008575	nuclear factor I/B [Source:MGI Symbol;Acc:MGI:103188]	abnormal pons morphology		Nfib
+ENSMUSG00000008575	nuclear factor I/B [Source:MGI Symbol;Acc:MGI:103188]	abnormal hippocampus CA3 region morphology		Nfib
+ENSMUSG00000008575	nuclear factor I/B [Source:MGI Symbol;Acc:MGI:103188]	absent corpus callosum		Nfib
+ENSMUSG00000008575	nuclear factor I/B [Source:MGI Symbol;Acc:MGI:103188]	absent hippocampus CA3 region		Nfib
+ENSMUSG00000008575	nuclear factor I/B [Source:MGI Symbol;Acc:MGI:103188]	neonatal lethality complete penetrance		Nfib
+ENSMUSG00000008575	nuclear factor I/B [Source:MGI Symbol;Acc:MGI:103188]	respiratory failure		Nfib
+ENSMUSG00000008575	nuclear factor I/B [Source:MGI Symbol;Acc:MGI:103188]	abnormal pulmonary alveolus epithelial cell morphology		Nfib
+ENSMUSG00000008575	nuclear factor I/B [Source:MGI Symbol;Acc:MGI:103188]	abnormal craniofacial development		Nfib
+ENSMUSG00000008575	nuclear factor I/B [Source:MGI Symbol;Acc:MGI:103188]	abnormal submandibular gland development		Nfib
+ENSMUSG00000008575	nuclear factor I/B [Source:MGI Symbol;Acc:MGI:103188]	Clara cell differentiation		Nfib
+ENSMUSG00000008575	nuclear factor I/B [Source:MGI Symbol;Acc:MGI:103188]	Type I pneumocyte differentiation		Nfib
+ENSMUSG00000008575	nuclear factor I/B [Source:MGI Symbol;Acc:MGI:103188]	Type II pneumocyte differentiation		Nfib
+ENSMUSG00000008575	nuclear factor I/B [Source:MGI Symbol;Acc:MGI:103188]	anterior commissure morphogenesis		Nfib
+ENSMUSG00000008575	nuclear factor I/B [Source:MGI Symbol;Acc:MGI:103188]	cell differentiation involved in salivary gland development		Nfib
+ENSMUSG00000008575	nuclear factor I/B [Source:MGI Symbol;Acc:MGI:103188]	chondrocyte differentiation		Nfib
+ENSMUSG00000008575	nuclear factor I/B [Source:MGI Symbol;Acc:MGI:103188]	commissural neuron axon guidance		Nfib
+ENSMUSG00000008575	nuclear factor I/B [Source:MGI Symbol;Acc:MGI:103188]	abnormal forebrain development		Nfib
+ENSMUSG00000008575	nuclear factor I/B [Source:MGI Symbol;Acc:MGI:103188]	forebrain radial glial cell differentiation		Nfib
+ENSMUSG00000008575	nuclear factor I/B [Source:MGI Symbol;Acc:MGI:103188]	abnormal hindbrain development		Nfib
+ENSMUSG00000008575	nuclear factor I/B [Source:MGI Symbol;Acc:MGI:103188]	lung ciliated cell differentiation		Nfib
+ENSMUSG00000008575	nuclear factor I/B [Source:MGI Symbol;Acc:MGI:103188]	decreased mesenchymal cell proliferation involved in lung development		Nfib
+ENSMUSG00000008575	nuclear factor I/B [Source:MGI Symbol;Acc:MGI:103188]	negative regulation of cell proliferation		Nfib
+ENSMUSG00000008575	nuclear factor I/B [Source:MGI Symbol;Acc:MGI:103188]	negative regulation of epithelial cell proliferation involved in lung morphogenesis		Nfib
+ENSMUSG00000008575	nuclear factor I/B [Source:MGI Symbol;Acc:MGI:103188]	negative regulation of mesenchymal cell proliferation involved in lung development		Nfib
+ENSMUSG00000008575	nuclear factor I/B [Source:MGI Symbol;Acc:MGI:103188]	positive regulation of transcription from RNA polymerase II promoter		Nfib
+ENSMUSG00000008575	nuclear factor I/B [Source:MGI Symbol;Acc:MGI:103188]	principal sensory nucleus of trigeminal nerve development		Nfib
+ENSMUSG00000008575	nuclear factor I/B [Source:MGI Symbol;Acc:MGI:103188]	salivary gland cavitation		Nfib
+ENSMUSG00000008575	nuclear factor I/B [Source:MGI Symbol;Acc:MGI:103188]	transcriptional activator activity RNA polymerase II core promoter proximal region sequence-specific binding		Nfib
+ENSMUSG00000086293	predicted gene 11269 [Source:MGI Symbol;Acc:MGI:3649855]			Gm11269
+ENSMUSG00000084357	predicted gene 11268 [Source:MGI Symbol;Acc:MGI:3649856]			Gm11268
+ENSMUSG00000028403	zinc finger, DHHC domain containing 21 [Source:MGI Symbol;Acc:MGI:1915518]	premature hair loss		Zdhhc21
+ENSMUSG00000028403	zinc finger, DHHC domain containing 21 [Source:MGI Symbol;Acc:MGI:1915518]	short hair		Zdhhc21
+ENSMUSG00000028403	zinc finger, DHHC domain containing 21 [Source:MGI Symbol;Acc:MGI:1915518]	sparse hair		Zdhhc21
+ENSMUSG00000028403	zinc finger, DHHC domain containing 21 [Source:MGI Symbol;Acc:MGI:1915518]	abnormal hair growth		Zdhhc21
+ENSMUSG00000028403	zinc finger, DHHC domain containing 21 [Source:MGI Symbol;Acc:MGI:1915518]	abnormal hair shaft melanin granule morphology		Zdhhc21
+ENSMUSG00000028403	zinc finger, DHHC domain containing 21 [Source:MGI Symbol;Acc:MGI:1915518]	matted coat		Zdhhc21
+ENSMUSG00000028403	zinc finger, DHHC domain containing 21 [Source:MGI Symbol;Acc:MGI:1915518]	abnormal epidermal layer morphology		Zdhhc21
+ENSMUSG00000028403	zinc finger, DHHC domain containing 21 [Source:MGI Symbol;Acc:MGI:1915518]	abnormal hair medullary septa cells		Zdhhc21
+ENSMUSG00000028403	zinc finger, DHHC domain containing 21 [Source:MGI Symbol;Acc:MGI:1915518]	abnormal coat appearance		Zdhhc21
+ENSMUSG00000028403	zinc finger, DHHC domain containing 21 [Source:MGI Symbol;Acc:MGI:1915518]	underdeveloped hair follicles		Zdhhc21
+ENSMUSG00000028403	zinc finger, DHHC domain containing 21 [Source:MGI Symbol;Acc:MGI:1915518]	thick epidermis		Zdhhc21
+ENSMUSG00000028403	zinc finger, DHHC domain containing 21 [Source:MGI Symbol;Acc:MGI:1915518]	abnormal hair follicle physiology		Zdhhc21
+ENSMUSG00000028403	zinc finger, DHHC domain containing 21 [Source:MGI Symbol;Acc:MGI:1915518]	enlarged sebaceous gland		Zdhhc21
+ENSMUSG00000028403	zinc finger, DHHC domain containing 21 [Source:MGI Symbol;Acc:MGI:1915518]	dilated hair follicle infundibulum		Zdhhc21
+ENSMUSG00000028403	zinc finger, DHHC domain containing 21 [Source:MGI Symbol;Acc:MGI:1915518]	abnormal sebaceous gland physiology		Zdhhc21
+ENSMUSG00000028403	zinc finger, DHHC domain containing 21 [Source:MGI Symbol;Acc:MGI:1915518]	sebaceous gland hyperplasia		Zdhhc21
+ENSMUSG00000028403	zinc finger, DHHC domain containing 21 [Source:MGI Symbol;Acc:MGI:1915518]	increased sebum secretion		Zdhhc21
+ENSMUSG00000028403	zinc finger, DHHC domain containing 21 [Source:MGI Symbol;Acc:MGI:1915518]	greasy coat		Zdhhc21
+ENSMUSG00000028403	zinc finger, DHHC domain containing 21 [Source:MGI Symbol;Acc:MGI:1915518]	abnormal skin physiology		Zdhhc21
+ENSMUSG00000028403	zinc finger, DHHC domain containing 21 [Source:MGI Symbol;Acc:MGI:1915518]	epidermal cyst		Zdhhc21
+ENSMUSG00000028403	zinc finger, DHHC domain containing 21 [Source:MGI Symbol;Acc:MGI:1915518]	abnormal hair follicle morphology		Zdhhc21
+ENSMUSG00000028403	zinc finger, DHHC domain containing 21 [Source:MGI Symbol;Acc:MGI:1915518]	abnormal hair follicle orientation		Zdhhc21
+ENSMUSG00000028403	zinc finger, DHHC domain containing 21 [Source:MGI Symbol;Acc:MGI:1915518]	abnormal hair cycle		Zdhhc21
+ENSMUSG00000028403	zinc finger, DHHC domain containing 21 [Source:MGI Symbol;Acc:MGI:1915518]	abnormal hair follicle development		Zdhhc21
+ENSMUSG00000028403	zinc finger, DHHC domain containing 21 [Source:MGI Symbol;Acc:MGI:1915518]	protein palmitoylation		Zdhhc21
+ENSMUSG00000028403	zinc finger, DHHC domain containing 21 [Source:MGI Symbol;Acc:MGI:1915518]	sebaceous gland development		Zdhhc21
+ENSMUSG00000038192	cerberus 1, DAN family BMP antagonist [Source:MGI Symbol;Acc:MGI:1201414]	no abnormal phenotype detected		Cer1
+ENSMUSG00000038192	cerberus 1, DAN family BMP antagonist [Source:MGI Symbol;Acc:MGI:1201414]	increased coping response		Cer1
+ENSMUSG00000038192	cerberus 1, DAN family BMP antagonist [Source:MGI Symbol;Acc:MGI:1201414]	hypoactivity		Cer1
+ENSMUSG00000038192	cerberus 1, DAN family BMP antagonist [Source:MGI Symbol;Acc:MGI:1201414]	increased anxiety-related response		Cer1
+ENSMUSG00000038192	cerberus 1, DAN family BMP antagonist [Source:MGI Symbol;Acc:MGI:1201414]	increased body weight		Cer1
+ENSMUSG00000038192	cerberus 1, DAN family BMP antagonist [Source:MGI Symbol;Acc:MGI:1201414]	abnormal metanephric ureteric bud development		Cer1
+ENSMUSG00000082351	predicted gene 11260 [Source:MGI Symbol;Acc:MGI:3651928]			Gm11260
+ENSMUSG00000085840	predicted gene 11261 [Source:MGI Symbol;Acc:MGI:3650239]			Gm11261
+ENSMUSG00000059049	Fras1 related extracellular matrix protein 1 [Source:MGI Symbol;Acc:MGI:2670972]	rectal prolapse		Frem1
+ENSMUSG00000059049	Fras1 related extracellular matrix protein 1 [Source:MGI Symbol;Acc:MGI:2670972]	abnormal kidney morphology		Frem1
+ENSMUSG00000059049	Fras1 related extracellular matrix protein 1 [Source:MGI Symbol;Acc:MGI:2670972]	coloboma		Frem1
+ENSMUSG00000059049	Fras1 related extracellular matrix protein 1 [Source:MGI Symbol;Acc:MGI:2670972]	cryptophthalmos		Frem1
+ENSMUSG00000059049	Fras1 related extracellular matrix protein 1 [Source:MGI Symbol;Acc:MGI:2670972]	abnormal eye development		Frem1
+ENSMUSG00000059049	Fras1 related extracellular matrix protein 1 [Source:MGI Symbol;Acc:MGI:2670972]	abnormal craniofacial morphology		Frem1
+ENSMUSG00000059049	Fras1 related extracellular matrix protein 1 [Source:MGI Symbol;Acc:MGI:2670972]	abnormal cranial suture morphology		Frem1
+ENSMUSG00000059049	Fras1 related extracellular matrix protein 1 [Source:MGI Symbol;Acc:MGI:2670972]	syndactyly		Frem1
+ENSMUSG00000059049	Fras1 related extracellular matrix protein 1 [Source:MGI Symbol;Acc:MGI:2670972]	ocular hypertelorism		Frem1
+ENSMUSG00000059049	Fras1 related extracellular matrix protein 1 [Source:MGI Symbol;Acc:MGI:2670972]	broad nasal bone		Frem1
+ENSMUSG00000059049	Fras1 related extracellular matrix protein 1 [Source:MGI Symbol;Acc:MGI:2670972]	abnormal conjunctiva morphology		Frem1
+ENSMUSG00000059049	Fras1 related extracellular matrix protein 1 [Source:MGI Symbol;Acc:MGI:2670972]	abnormal metopic suture morphology		Frem1
+ENSMUSG00000059049	Fras1 related extracellular matrix protein 1 [Source:MGI Symbol;Acc:MGI:2670972]	short snout		Frem1
+ENSMUSG00000059049	Fras1 related extracellular matrix protein 1 [Source:MGI Symbol;Acc:MGI:2670972]	decreased cornea thickness		Frem1
+ENSMUSG00000059049	Fras1 related extracellular matrix protein 1 [Source:MGI Symbol;Acc:MGI:2670972]	bleb		Frem1
+ENSMUSG00000059049	Fras1 related extracellular matrix protein 1 [Source:MGI Symbol;Acc:MGI:2670972]	abnormal eye morphology		Frem1
+ENSMUSG00000059049	Fras1 related extracellular matrix protein 1 [Source:MGI Symbol;Acc:MGI:2670972]	abnormal digit morphology		Frem1
+ENSMUSG00000059049	Fras1 related extracellular matrix protein 1 [Source:MGI Symbol;Acc:MGI:2670972]	microphthalmia		Frem1
+ENSMUSG00000059049	Fras1 related extracellular matrix protein 1 [Source:MGI Symbol;Acc:MGI:2670972]	single kidney		Frem1
+ENSMUSG00000059049	Fras1 related extracellular matrix protein 1 [Source:MGI Symbol;Acc:MGI:2670972]	fused right lung lobes		Frem1
+ENSMUSG00000059049	Fras1 related extracellular matrix protein 1 [Source:MGI Symbol;Acc:MGI:2670972]	abnormal anogenital distance		Frem1
+ENSMUSG00000059049	Fras1 related extracellular matrix protein 1 [Source:MGI Symbol;Acc:MGI:2670972]	eyelids fail to open		Frem1
+ENSMUSG00000059049	Fras1 related extracellular matrix protein 1 [Source:MGI Symbol;Acc:MGI:2670972]	diaphragmatic hernia		Frem1
+ENSMUSG00000059049	Fras1 related extracellular matrix protein 1 [Source:MGI Symbol;Acc:MGI:2670972]	abnormal postnatal growth/weight/body size		Frem1
+ENSMUSG00000059049	Fras1 related extracellular matrix protein 1 [Source:MGI Symbol;Acc:MGI:2670972]	abnormal gallbladder morphology		Frem1
+ENSMUSG00000059049	Fras1 related extracellular matrix protein 1 [Source:MGI Symbol;Acc:MGI:2670972]	blistering		Frem1
+ENSMUSG00000059049	Fras1 related extracellular matrix protein 1 [Source:MGI Symbol;Acc:MGI:2670972]	abnormal epidermal layer morphology		Frem1
+ENSMUSG00000059049	Fras1 related extracellular matrix protein 1 [Source:MGI Symbol;Acc:MGI:2670972]	abnormal brain morphology		Frem1
+ENSMUSG00000059049	Fras1 related extracellular matrix protein 1 [Source:MGI Symbol;Acc:MGI:2670972]	prenatal lethality incomplete penetrance		Frem1
+ENSMUSG00000059049	Fras1 related extracellular matrix protein 1 [Source:MGI Symbol;Acc:MGI:2670972]	eyelids open at birth		Frem1
+ENSMUSG00000059049	Fras1 related extracellular matrix protein 1 [Source:MGI Symbol;Acc:MGI:2670972]	polydactyly		Frem1
+ENSMUSG00000059049	Fras1 related extracellular matrix protein 1 [Source:MGI Symbol;Acc:MGI:2670972]	anophthalmia		Frem1
+ENSMUSG00000059049	Fras1 related extracellular matrix protein 1 [Source:MGI Symbol;Acc:MGI:2670972]	absent kidney		Frem1
+ENSMUSG00000059049	Fras1 related extracellular matrix protein 1 [Source:MGI Symbol;Acc:MGI:2670972]	abnormal kidney development		Frem1
+ENSMUSG00000059049	Fras1 related extracellular matrix protein 1 [Source:MGI Symbol;Acc:MGI:2670972]	asymmetric snout		Frem1
+ENSMUSG00000059049	Fras1 related extracellular matrix protein 1 [Source:MGI Symbol;Acc:MGI:2670972]	preweaning lethality incomplete penetrance		Frem1
+ENSMUSG00000059049	Fras1 related extracellular matrix protein 1 [Source:MGI Symbol;Acc:MGI:2670972]	abnormal diaphragm development		Frem1
+ENSMUSG00000059049	Fras1 related extracellular matrix protein 1 [Source:MGI Symbol;Acc:MGI:2670972]	early eyelid opening		Frem1
+ENSMUSG00000059049	Fras1 related extracellular matrix protein 1 [Source:MGI Symbol;Acc:MGI:2670972]	no abnormal phenotype detected		Frem1
+ENSMUSG00000059049	Fras1 related extracellular matrix protein 1 [Source:MGI Symbol;Acc:MGI:2670972]	premature suture closure		Frem1
+ENSMUSG00000059049	Fras1 related extracellular matrix protein 1 [Source:MGI Symbol;Acc:MGI:2670972]	absent eyelids		Frem1
+ENSMUSG00000059049	Fras1 related extracellular matrix protein 1 [Source:MGI Symbol;Acc:MGI:2670972]	abnormal cornea morphology		Frem1
+ENSMUSG00000059049	Fras1 related extracellular matrix protein 1 [Source:MGI Symbol;Acc:MGI:2670972]	abnormal corneal epithelium morphology		Frem1
+ENSMUSG00000059049	Fras1 related extracellular matrix protein 1 [Source:MGI Symbol;Acc:MGI:2670972]	abnormal retina morphology		Frem1
+ENSMUSG00000059049	Fras1 related extracellular matrix protein 1 [Source:MGI Symbol;Acc:MGI:2670972]	cell-matrix adhesion		Frem1
+ENSMUSG00000083629	predicted gene 11262 [Source:MGI Symbol;Acc:MGI:3650238]			Gm11262
+ENSMUSG00000083496	predicted gene 11263 [Source:MGI Symbol;Acc:MGI:3651899]			Gm11263
+ENSMUSG00000084248	predicted gene 11409 [Source:MGI Symbol;Acc:MGI:3652024]			Gm11409
+ENSMUSG00000082179	predicted gene 11407 [Source:MGI Symbol;Acc:MGI:3651131]			Gm11407
+ENSMUSG00000083076	predicted gene 11408 [Source:MGI Symbol;Acc:MGI:3651130]			Gm11408
+ENSMUSG00000083219	predicted gene 11410 [Source:MGI Symbol;Acc:MGI:3652015]			Gm11410
+ENSMUSG00000082555	predicted gene 11406 [Source:MGI Symbol;Acc:MGI:3651132]			Gm11406
+ENSMUSG00000005994	tyrosinase-related protein 1 [Source:MGI Symbol;Acc:MGI:98881]	prenatal lethality complete penetrance		Tyrp1
+ENSMUSG00000005994	tyrosinase-related protein 1 [Source:MGI Symbol;Acc:MGI:98881]	abnormal coat/hair pigmentation		Tyrp1
+ENSMUSG00000005994	tyrosinase-related protein 1 [Source:MGI Symbol;Acc:MGI:98881]	perinatal lethality complete penetrance		Tyrp1
+ENSMUSG00000005994	tyrosinase-related protein 1 [Source:MGI Symbol;Acc:MGI:98881]	diluted coat color		Tyrp1
+ENSMUSG00000005994	tyrosinase-related protein 1 [Source:MGI Symbol;Acc:MGI:98881]	decreased eye pigmentation		Tyrp1
+ENSMUSG00000005994	tyrosinase-related protein 1 [Source:MGI Symbol;Acc:MGI:98881]	decreased bleeding time		Tyrp1
+ENSMUSG00000005994	tyrosinase-related protein 1 [Source:MGI Symbol;Acc:MGI:98881]	increased bleeding time		Tyrp1
+ENSMUSG00000005994	tyrosinase-related protein 1 [Source:MGI Symbol;Acc:MGI:98881]	abnormal iris pigmentation		Tyrp1
+ENSMUSG00000005994	tyrosinase-related protein 1 [Source:MGI Symbol;Acc:MGI:98881]	abnormal ear morphology		Tyrp1
+ENSMUSG00000005994	tyrosinase-related protein 1 [Source:MGI Symbol;Acc:MGI:98881]	abnormal endocochlear potential		Tyrp1
+ENSMUSG00000005994	tyrosinase-related protein 1 [Source:MGI Symbol;Acc:MGI:98881]	abnormal inner ear morphology		Tyrp1
+ENSMUSG00000005994	tyrosinase-related protein 1 [Source:MGI Symbol;Acc:MGI:98881]	abnormal hearing physiology		Tyrp1
+ENSMUSG00000005994	tyrosinase-related protein 1 [Source:MGI Symbol;Acc:MGI:98881]	decreased endocochlear potential		Tyrp1
+ENSMUSG00000005994	tyrosinase-related protein 1 [Source:MGI Symbol;Acc:MGI:98881]	abnormal strial intermediate cell morphology		Tyrp1
+ENSMUSG00000005994	tyrosinase-related protein 1 [Source:MGI Symbol;Acc:MGI:98881]	abnormal iris stroma morphology		Tyrp1
+ENSMUSG00000005994	tyrosinase-related protein 1 [Source:MGI Symbol;Acc:MGI:98881]	abnormal iris morphology		Tyrp1
+ENSMUSG00000005994	tyrosinase-related protein 1 [Source:MGI Symbol;Acc:MGI:98881]	iris atrophy		Tyrp1
+ENSMUSG00000005994	tyrosinase-related protein 1 [Source:MGI Symbol;Acc:MGI:98881]	reduced female fertility		Tyrp1
+ENSMUSG00000005994	tyrosinase-related protein 1 [Source:MGI Symbol;Acc:MGI:98881]	male infertility		Tyrp1
+ENSMUSG00000005994	tyrosinase-related protein 1 [Source:MGI Symbol;Acc:MGI:98881]	abnormal behavior		Tyrp1
+ENSMUSG00000005994	tyrosinase-related protein 1 [Source:MGI Symbol;Acc:MGI:98881]	decreased body size		Tyrp1
+ENSMUSG00000005994	tyrosinase-related protein 1 [Source:MGI Symbol;Acc:MGI:98881]	acetoacetic acid metabolic process		Tyrp1
+ENSMUSG00000005994	tyrosinase-related protein 1 [Source:MGI Symbol;Acc:MGI:98881]	melanin metabolic process		Tyrp1
+ENSMUSG00000005994	tyrosinase-related protein 1 [Source:MGI Symbol;Acc:MGI:98881]	melanocyte differentiation		Tyrp1
+ENSMUSG00000005994	tyrosinase-related protein 1 [Source:MGI Symbol;Acc:MGI:98881]	melanosome organization		Tyrp1
+ENSMUSG00000005994	tyrosinase-related protein 1 [Source:MGI Symbol;Acc:MGI:98881]	increased ear pigmentation		Tyrp1
+ENSMUSG00000082637	predicted gene 11248 [Source:MGI Symbol;Acc:MGI:3651451]			Gm11248
+ENSMUSG00000083245	predicted gene 11185 [Source:MGI Symbol;Acc:MGI:3650877]			Gm11185
+ENSMUSG00000038172	tetratricopeptide repeat domain 39B [Source:MGI Symbol;Acc:MGI:1917113]	decreased circulating triglyceride level	C57BL/6	Ttc39b
+ENSMUSG00000038172	tetratricopeptide repeat domain 39B [Source:MGI Symbol;Acc:MGI:1917113]	decreased circulating creatinine level	C57BL/6	Ttc39b
+ENSMUSG00000038172	tetratricopeptide repeat domain 39B [Source:MGI Symbol;Acc:MGI:1917113]	decreased circulating creatinine level	C57BL/6	Ttc39b
+ENSMUSG00000038172	tetratricopeptide repeat domain 39B [Source:MGI Symbol;Acc:MGI:1917113]	thrombocytosis	C57BL/6	Ttc39b
+ENSMUSG00000048706	leucine rich adaptor protein 1-like [Source:MGI Symbol;Acc:MGI:106510]			Lurap1l
+ENSMUSG00000086321	predicted gene 11413 [Source:MGI Symbol;Acc:MGI:3650701]			Gm11413
+ENSMUSG00000087592	predicted gene 11184 [Source:MGI Symbol;Acc:MGI:3651087]			Gm11184
+ENSMUSG00000028484	PC4 and SFRS1 interacting protein 1 [Source:MGI Symbol;Acc:MGI:2142116]	blepharitis		Psip1
+ENSMUSG00000028484	PC4 and SFRS1 interacting protein 1 [Source:MGI Symbol;Acc:MGI:2142116]	small testis		Psip1
+ENSMUSG00000028484	PC4 and SFRS1 interacting protein 1 [Source:MGI Symbol;Acc:MGI:2142116]	decreased total body fat amount		Psip1
+ENSMUSG00000028484	PC4 and SFRS1 interacting protein 1 [Source:MGI Symbol;Acc:MGI:2142116]	reduced male fertility		Psip1
+ENSMUSG00000028484	PC4 and SFRS1 interacting protein 1 [Source:MGI Symbol;Acc:MGI:2142116]	domed cranium		Psip1
+ENSMUSG00000028484	PC4 and SFRS1 interacting protein 1 [Source:MGI Symbol;Acc:MGI:2142116]	cervical vertebral transformation		Psip1
+ENSMUSG00000028484	PC4 and SFRS1 interacting protein 1 [Source:MGI Symbol;Acc:MGI:2142116]	decreased vertical activity		Psip1
+ENSMUSG00000028484	PC4 and SFRS1 interacting protein 1 [Source:MGI Symbol;Acc:MGI:2142116]	absent gastric milk in neonates		Psip1
+ENSMUSG00000028484	PC4 and SFRS1 interacting protein 1 [Source:MGI Symbol;Acc:MGI:2142116]	perinatal lethality incomplete penetrance		Psip1
+ENSMUSG00000028484	PC4 and SFRS1 interacting protein 1 [Source:MGI Symbol;Acc:MGI:2142116]	abnormal spine curvature		Psip1
+ENSMUSG00000028484	PC4 and SFRS1 interacting protein 1 [Source:MGI Symbol;Acc:MGI:2142116]	no abnormal phenotype detected		Psip1
+ENSMUSG00000028484	PC4 and SFRS1 interacting protein 1 [Source:MGI Symbol;Acc:MGI:2142116]	thoracic vertebral transformation		Psip1
+ENSMUSG00000028484	PC4 and SFRS1 interacting protein 1 [Source:MGI Symbol;Acc:MGI:2142116]	abnormal cervical vertebrae morphology		Psip1
+ENSMUSG00000028484	PC4 and SFRS1 interacting protein 1 [Source:MGI Symbol;Acc:MGI:2142116]	abnormal rib development		Psip1
+ENSMUSG00000028484	PC4 and SFRS1 interacting protein 1 [Source:MGI Symbol;Acc:MGI:2142116]	abnormal axial skeleton morphology		Psip1
+ENSMUSG00000028484	PC4 and SFRS1 interacting protein 1 [Source:MGI Symbol;Acc:MGI:2142116]	lumbar vertebral transformation		Psip1
+ENSMUSG00000028484	PC4 and SFRS1 interacting protein 1 [Source:MGI Symbol;Acc:MGI:2142116]	short nasal bone		Psip1
+ENSMUSG00000028484	PC4 and SFRS1 interacting protein 1 [Source:MGI Symbol;Acc:MGI:2142116]	abnormal vertebrae morphology		Psip1
+ENSMUSG00000028484	PC4 and SFRS1 interacting protein 1 [Source:MGI Symbol;Acc:MGI:2142116]	abnormal rib morphology		Psip1
+ENSMUSG00000028484	PC4 and SFRS1 interacting protein 1 [Source:MGI Symbol;Acc:MGI:2142116]	asymmetric rib attachment		Psip1
+ENSMUSG00000028484	PC4 and SFRS1 interacting protein 1 [Source:MGI Symbol;Acc:MGI:2142116]	short sternum		Psip1
+ENSMUSG00000028484	PC4 and SFRS1 interacting protein 1 [Source:MGI Symbol;Acc:MGI:2142116]	decreased grip strength		Psip1
+ENSMUSG00000028484	PC4 and SFRS1 interacting protein 1 [Source:MGI Symbol;Acc:MGI:2142116]	abnormal occipital bone morphology		Psip1
+ENSMUSG00000028484	PC4 and SFRS1 interacting protein 1 [Source:MGI Symbol;Acc:MGI:2142116]	small interparietal bone		Psip1
+ENSMUSG00000028484	PC4 and SFRS1 interacting protein 1 [Source:MGI Symbol;Acc:MGI:2142116]	broad nasal bone		Psip1
+ENSMUSG00000028484	PC4 and SFRS1 interacting protein 1 [Source:MGI Symbol;Acc:MGI:2142116]	shortened head		Psip1
+ENSMUSG00000028484	PC4 and SFRS1 interacting protein 1 [Source:MGI Symbol;Acc:MGI:2142116]	hypoactivity		Psip1
+ENSMUSG00000028484	PC4 and SFRS1 interacting protein 1 [Source:MGI Symbol;Acc:MGI:2142116]	absent epididymal fat pad		Psip1
+ENSMUSG00000028484	PC4 and SFRS1 interacting protein 1 [Source:MGI Symbol;Acc:MGI:2142116]	spleen atrophy		Psip1
+ENSMUSG00000028484	PC4 and SFRS1 interacting protein 1 [Source:MGI Symbol;Acc:MGI:2142116]	vertebral transformation		Psip1
+ENSMUSG00000028484	PC4 and SFRS1 interacting protein 1 [Source:MGI Symbol;Acc:MGI:2142116]	decreased lumbar vertebrae number		Psip1
+ENSMUSG00000028484	PC4 and SFRS1 interacting protein 1 [Source:MGI Symbol;Acc:MGI:2142116]	decreased rib number		Psip1
+ENSMUSG00000028484	PC4 and SFRS1 interacting protein 1 [Source:MGI Symbol;Acc:MGI:2142116]	hunched posture		Psip1
+ENSMUSG00000028484	PC4 and SFRS1 interacting protein 1 [Source:MGI Symbol;Acc:MGI:2142116]	broad head		Psip1
+ENSMUSG00000028484	PC4 and SFRS1 interacting protein 1 [Source:MGI Symbol;Acc:MGI:2142116]	abnormal neurocranium morphology		Psip1
+ENSMUSG00000028484	PC4 and SFRS1 interacting protein 1 [Source:MGI Symbol;Acc:MGI:2142116]	abnormal cervical atlas morphology		Psip1
+ENSMUSG00000028484	PC4 and SFRS1 interacting protein 1 [Source:MGI Symbol;Acc:MGI:2142116]	abnormal abdominal fat pad morphology		Psip1
+ENSMUSG00000028484	PC4 and SFRS1 interacting protein 1 [Source:MGI Symbol;Acc:MGI:2142116]	small supraoccipital bone		Psip1
+ENSMUSG00000028484	PC4 and SFRS1 interacting protein 1 [Source:MGI Symbol;Acc:MGI:2142116]	abnormal cranium morphology		Psip1
+ENSMUSG00000028484	PC4 and SFRS1 interacting protein 1 [Source:MGI Symbol;Acc:MGI:2142116]	abnormal cervical axis morphology		Psip1
+ENSMUSG00000028484	PC4 and SFRS1 interacting protein 1 [Source:MGI Symbol;Acc:MGI:2142116]	small exoccipital bone		Psip1
+ENSMUSG00000028484	PC4 and SFRS1 interacting protein 1 [Source:MGI Symbol;Acc:MGI:2142116]	abnormal nasal bone morphology		Psip1
+ENSMUSG00000028484	PC4 and SFRS1 interacting protein 1 [Source:MGI Symbol;Acc:MGI:2142116]	limb grasping		Psip1
+ENSMUSG00000028483	small nuclear RNA activating complex, polypeptide 3 [Source:MGI Symbol;Acc:MGI:1916338]			Snapc3
+ENSMUSG00000082416	predicted gene 11414 [Source:MGI Symbol;Acc:MGI:3650503]			Gm11414
+ENSMUSG00000066116	predicted gene 10154 [Source:MGI Symbol;Acc:MGI:3642271]			Gm10154
+ENSMUSG00000098217	predicted gene, 27046 [Source:MGI Symbol;Acc:MGI:5504161]			Gm27046
+ENSMUSG00000052407	coiled-coil domain containing 171 [Source:MGI Symbol;Acc:MGI:1922152]	increased IgM level		Ccdc171
+ENSMUSG00000052407	coiled-coil domain containing 171 [Source:MGI Symbol;Acc:MGI:1922152]	decreased IgD level		Ccdc171
+ENSMUSG00000052407	coiled-coil domain containing 171 [Source:MGI Symbol;Acc:MGI:1922152]	decreased mature B cell number		Ccdc171
+ENSMUSG00000097942	predicted gene, 26968 [Source:MGI Symbol;Acc:MGI:5504083]			Gm26968
+ENSMUSG00000080793	chromobox 3, pseudogene 3 [Source:MGI Symbol;Acc:MGI:1890540]			Cbx3-ps3
+ENSMUSG00000085378	predicted gene 11415 [Source:MGI Symbol;Acc:MGI:3650502]			Gm11415
+ENSMUSG00000085217	RIKEN cDNA 6030471H07 gene [Source:MGI Symbol;Acc:MGI:1925488]			6030471H07Rik
+ENSMUSG00000083044	predicted gene 12416 [Source:MGI Symbol;Acc:MGI:3650588]			Gm12416
+ENSMUSG00000087378	predicted gene 12414 [Source:MGI Symbol;Acc:MGI:3650374]			Gm12414
+ENSMUSG00000028487	basonuclin 2 [Source:MGI Symbol;Acc:MGI:2443805]	abnormal pterygoid process morphology		Bnc2
+ENSMUSG00000028487	basonuclin 2 [Source:MGI Symbol;Acc:MGI:2443805]	meteorism		Bnc2
+ENSMUSG00000028487	basonuclin 2 [Source:MGI Symbol;Acc:MGI:2443805]	parietal bone hypoplasia		Bnc2
+ENSMUSG00000028487	basonuclin 2 [Source:MGI Symbol;Acc:MGI:2443805]	small alisphenoid bone		Bnc2
+ENSMUSG00000028487	basonuclin 2 [Source:MGI Symbol;Acc:MGI:2443805]	abnormal fontanelle morphology		Bnc2
+ENSMUSG00000028487	basonuclin 2 [Source:MGI Symbol;Acc:MGI:2443805]	palatal shelves fail to meet at midline		Bnc2
+ENSMUSG00000028487	basonuclin 2 [Source:MGI Symbol;Acc:MGI:2443805]	abnormal palate development		Bnc2
+ENSMUSG00000028487	basonuclin 2 [Source:MGI Symbol;Acc:MGI:2443805]	decreased birth body size		Bnc2
+ENSMUSG00000028487	basonuclin 2 [Source:MGI Symbol;Acc:MGI:2443805]	neonatal lethality complete penetrance		Bnc2
+ENSMUSG00000028487	basonuclin 2 [Source:MGI Symbol;Acc:MGI:2443805]	frontal bone hypoplasia		Bnc2
+ENSMUSG00000028487	basonuclin 2 [Source:MGI Symbol;Acc:MGI:2443805]	cleft secondary palate		Bnc2
+ENSMUSG00000028487	basonuclin 2 [Source:MGI Symbol;Acc:MGI:2443805]	abnormal maxillary shelf morphology		Bnc2
+ENSMUSG00000028487	basonuclin 2 [Source:MGI Symbol;Acc:MGI:2443805]	microcephaly		Bnc2
+ENSMUSG00000028487	basonuclin 2 [Source:MGI Symbol;Acc:MGI:2443805]	decreased tongue size		Bnc2
+ENSMUSG00000028487	basonuclin 2 [Source:MGI Symbol;Acc:MGI:2443805]	endochondral bone growth		Bnc2
+ENSMUSG00000028487	basonuclin 2 [Source:MGI Symbol;Acc:MGI:2443805]	abnormal lung-associated mesenchyme development		Bnc2
+ENSMUSG00000028487	basonuclin 2 [Source:MGI Symbol;Acc:MGI:2443805]	abnormal secondary palate development		Bnc2
+ENSMUSG00000028487	basonuclin 2 [Source:MGI Symbol;Acc:MGI:2443805]	tongue development		Bnc2
+ENSMUSG00000083743	predicted gene 12421 [Source:MGI Symbol;Acc:MGI:3650591]			Gm12421
+ENSMUSG00000081775	predicted gene 12420 [Source:MGI Symbol;Acc:MGI:3652148]			Gm12420
+ENSMUSG00000086413	predicted gene 12415 [Source:MGI Symbol;Acc:MGI:3650585]			Gm12415
+ENSMUSG00000080303	predicted gene 12419 [Source:MGI Symbol;Acc:MGI:3650581]			Gm12419
+ENSMUSG00000083139	predicted gene 12418 [Source:MGI Symbol;Acc:MGI:3650582]			Gm12418
+ENSMUSG00000038070	centlein, centrosomal protein [Source:MGI Symbol;Acc:MGI:2443104]			Cntln
+ENSMUSG00000084267	predicted gene 12417 [Source:MGI Symbol;Acc:MGI:3650587]			Gm12417
+ENSMUSG00000087349	predicted gene 12680 [Source:MGI Symbol;Acc:MGI:3650846]			Gm12680
+ENSMUSG00000081862	predicted gene 12413 [Source:MGI Symbol;Acc:MGI:3650373]			Gm12413
+ENSMUSG00000028488	SH3-domain GRB2-like 2 [Source:MGI Symbol;Acc:MGI:700009]	decreased bone mineral density	C57BL/6NCrl	Sh3gl2
+ENSMUSG00000028488	SH3-domain GRB2-like 2 [Source:MGI Symbol;Acc:MGI:700009]	decreased bone mineral density	C57BL/6NCrl	Sh3gl2
+ENSMUSG00000028488	SH3-domain GRB2-like 2 [Source:MGI Symbol;Acc:MGI:700009]	hypoactivity	C57BL/6NCrl	Sh3gl2
+ENSMUSG00000028488	SH3-domain GRB2-like 2 [Source:MGI Symbol;Acc:MGI:700009]	hypoactivity	C57BL/6NCrl	Sh3gl2
+ENSMUSG00000028488	SH3-domain GRB2-like 2 [Source:MGI Symbol;Acc:MGI:700009]	decreased vertical activity	C57BL/6NCrl	Sh3gl2
+ENSMUSG00000028488	SH3-domain GRB2-like 2 [Source:MGI Symbol;Acc:MGI:700009]	decreased vertical activity	C57BL/6NCrl	Sh3gl2
+ENSMUSG00000028488	SH3-domain GRB2-like 2 [Source:MGI Symbol;Acc:MGI:700009]	short tibia	C57BL/6NCrl	Sh3gl2
+ENSMUSG00000028488	SH3-domain GRB2-like 2 [Source:MGI Symbol;Acc:MGI:700009]	short tibia	C57BL/6NCrl	Sh3gl2
+ENSMUSG00000028488	SH3-domain GRB2-like 2 [Source:MGI Symbol;Acc:MGI:700009]	decreased caudal vertebrae number	C57BL/6NCrl	Sh3gl2
+ENSMUSG00000028488	SH3-domain GRB2-like 2 [Source:MGI Symbol;Acc:MGI:700009]	decreased caudal vertebrae number	C57BL/6NCrl	Sh3gl2
+ENSMUSG00000028488	SH3-domain GRB2-like 2 [Source:MGI Symbol;Acc:MGI:700009]	decreased body length	C57BL/6NCrl	Sh3gl2
+ENSMUSG00000028488	SH3-domain GRB2-like 2 [Source:MGI Symbol;Acc:MGI:700009]	decreased body length	C57BL/6NCrl	Sh3gl2
+ENSMUSG00000028488	SH3-domain GRB2-like 2 [Source:MGI Symbol;Acc:MGI:700009]	decreased lean body mass	C57BL/6NCrl	Sh3gl2
+ENSMUSG00000028488	SH3-domain GRB2-like 2 [Source:MGI Symbol;Acc:MGI:700009]	decreased lean body mass	C57BL/6NCrl	Sh3gl2
+ENSMUSG00000028488	SH3-domain GRB2-like 2 [Source:MGI Symbol;Acc:MGI:700009]	abnormal behavior	C57BL/6NCrl	Sh3gl2
+ENSMUSG00000028488	SH3-domain GRB2-like 2 [Source:MGI Symbol;Acc:MGI:700009]	abnormal behavior	C57BL/6NCrl	Sh3gl2
+ENSMUSG00000028488	SH3-domain GRB2-like 2 [Source:MGI Symbol;Acc:MGI:700009]	abnormal bone structure	C57BL/6NCrl	Sh3gl2
+ENSMUSG00000028488	SH3-domain GRB2-like 2 [Source:MGI Symbol;Acc:MGI:700009]	abnormal bone structure	C57BL/6NCrl	Sh3gl2
+ENSMUSG00000028488	SH3-domain GRB2-like 2 [Source:MGI Symbol;Acc:MGI:700009]	decreased bone mineral content	C57BL/6NCrl	Sh3gl2
+ENSMUSG00000028488	SH3-domain GRB2-like 2 [Source:MGI Symbol;Acc:MGI:700009]	decreased bone mineral content	C57BL/6NCrl	Sh3gl2
+ENSMUSG00000028488	SH3-domain GRB2-like 2 [Source:MGI Symbol;Acc:MGI:700009]	decreased grip strength	C57BL/6NCrl	Sh3gl2
+ENSMUSG00000028488	SH3-domain GRB2-like 2 [Source:MGI Symbol;Acc:MGI:700009]	decreased grip strength	C57BL/6NCrl	Sh3gl2
+ENSMUSG00000028488	SH3-domain GRB2-like 2 [Source:MGI Symbol;Acc:MGI:700009]	decreased total body fat amount	C57BL/6NCrl	Sh3gl2
+ENSMUSG00000028488	SH3-domain GRB2-like 2 [Source:MGI Symbol;Acc:MGI:700009]	decreased total body fat amount	C57BL/6NCrl	Sh3gl2
+ENSMUSG00000028488	SH3-domain GRB2-like 2 [Source:MGI Symbol;Acc:MGI:700009]	decreased body length		Sh3gl2
+ENSMUSG00000028488	SH3-domain GRB2-like 2 [Source:MGI Symbol;Acc:MGI:700009]	abnormal behavior		Sh3gl2
+ENSMUSG00000028488	SH3-domain GRB2-like 2 [Source:MGI Symbol;Acc:MGI:700009]	hypoactivity		Sh3gl2
+ENSMUSG00000028488	SH3-domain GRB2-like 2 [Source:MGI Symbol;Acc:MGI:700009]	decreased caudal vertebrae number		Sh3gl2
+ENSMUSG00000028488	SH3-domain GRB2-like 2 [Source:MGI Symbol;Acc:MGI:700009]	short tibia		Sh3gl2
+ENSMUSG00000028488	SH3-domain GRB2-like 2 [Source:MGI Symbol;Acc:MGI:700009]	decreased total body fat amount		Sh3gl2
+ENSMUSG00000028488	SH3-domain GRB2-like 2 [Source:MGI Symbol;Acc:MGI:700009]	decreased bone mineral density		Sh3gl2
+ENSMUSG00000028488	SH3-domain GRB2-like 2 [Source:MGI Symbol;Acc:MGI:700009]	decreased vertical activity		Sh3gl2
+ENSMUSG00000028488	SH3-domain GRB2-like 2 [Source:MGI Symbol;Acc:MGI:700009]	abnormal bone structure		Sh3gl2
+ENSMUSG00000028488	SH3-domain GRB2-like 2 [Source:MGI Symbol;Acc:MGI:700009]	decreased lean body mass		Sh3gl2
+ENSMUSG00000028488	SH3-domain GRB2-like 2 [Source:MGI Symbol;Acc:MGI:700009]	decreased bone mineral content		Sh3gl2
+ENSMUSG00000028488	SH3-domain GRB2-like 2 [Source:MGI Symbol;Acc:MGI:700009]	no abnormal phenotype detected		Sh3gl2
+ENSMUSG00000066113	ADAMTS-like 1 [Source:MGI Symbol;Acc:MGI:1924989]			Adamtsl1
+ENSMUSG00000089543	predicted gene, 25836 [Source:MGI Symbol;Acc:MGI:5455613]			Gm25836
+ENSMUSG00000065884	predicted gene, 22864 [Source:MGI Symbol;Acc:MGI:5452641]			Gm22864
+ENSMUSG00000099273	predicted gene, 27452 [Source:MGI Symbol;Acc:MGI:5530834]			Gm27452
+ENSMUSG00000092829	predicted gene, 23159 [Source:MGI Symbol;Acc:MGI:5452936]			Gm23159
+ENSMUSG00000064606	predicted gene, 25899 [Source:MGI Symbol;Acc:MGI:5455676]			Gm25899
+ENSMUSG00000084595	nuclear encoded rRNA 5S 188 [Source:MGI Symbol;Acc:MGI:4422053]			n-R5s188
+ENSMUSG00000088122	predicted gene, 26069 [Source:MGI Symbol;Acc:MGI:5455846]			Gm26069
+ENSMUSG00000093065	predicted gene, 23154 [Source:MGI Symbol;Acc:MGI:5452931]			Gm23154
+ENSMUSG00000084718	nuclear encoded rRNA 5S 187 [Source:MGI Symbol;Acc:MGI:4422052]			n-R5s187
+ENSMUSG00000089338	predicted gene, 22262 [Source:MGI Symbol;Acc:MGI:5452039]			Gm22262
+ENSMUSG00000104700	predicted gene, 26379 [Source:MGI Symbol;Acc:MGI:5456156]			Gm26379
+ENSMUSG00000088958	small Cajal body-specific RNA 8 [Source:MGI Symbol;Acc:MGI:3819488]			Scarna8
+ENSMUSG00000049122	FERM domain containing 3 [Source:MGI Symbol;Acc:MGI:2442466]			Frmd3
+ENSMUSG00000028494	perilipin 2 [Source:MGI Symbol;Acc:MGI:87920]	male infertility		Plin2
+ENSMUSG00000028494	perilipin 2 [Source:MGI Symbol;Acc:MGI:87920]	decreased food intake		Plin2
+ENSMUSG00000028494	perilipin 2 [Source:MGI Symbol;Acc:MGI:87920]	decreased susceptibility to hepatic steatosis		Plin2
+ENSMUSG00000028494	perilipin 2 [Source:MGI Symbol;Acc:MGI:87920]	decreased fat cell size		Plin2
+ENSMUSG00000028494	perilipin 2 [Source:MGI Symbol;Acc:MGI:87920]	decreased total body fat amount		Plin2
+ENSMUSG00000028494	perilipin 2 [Source:MGI Symbol;Acc:MGI:87920]	abnormal white fat cell morphology		Plin2
+ENSMUSG00000028494	perilipin 2 [Source:MGI Symbol;Acc:MGI:87920]	decreased circulating free fatty acid level		Plin2
+ENSMUSG00000028494	perilipin 2 [Source:MGI Symbol;Acc:MGI:87920]	decreased inflammatory response		Plin2
+ENSMUSG00000028494	perilipin 2 [Source:MGI Symbol;Acc:MGI:87920]	abnormal maternal behavior		Plin2
+ENSMUSG00000028494	perilipin 2 [Source:MGI Symbol;Acc:MGI:87920]	decreased liver triglyceride level		Plin2
+ENSMUSG00000028494	perilipin 2 [Source:MGI Symbol;Acc:MGI:87920]	decreased circulating leptin level		Plin2
+ENSMUSG00000028494	perilipin 2 [Source:MGI Symbol;Acc:MGI:87920]	decreased susceptibility to diet-induced obesity		Plin2
+ENSMUSG00000028494	perilipin 2 [Source:MGI Symbol;Acc:MGI:87920]	decreased body weight		Plin2
+ENSMUSG00000028494	perilipin 2 [Source:MGI Symbol;Acc:MGI:87920]	decreased subcutaneous adipose tissue amount		Plin2
+ENSMUSG00000028494	perilipin 2 [Source:MGI Symbol;Acc:MGI:87920]	abnormal adipose tissue physiology		Plin2
+ENSMUSG00000028494	perilipin 2 [Source:MGI Symbol;Acc:MGI:87920]	decreased circulating triglyceride level		Plin2
+ENSMUSG00000028494	perilipin 2 [Source:MGI Symbol;Acc:MGI:87920]	hyperactivity		Plin2
+ENSMUSG00000028494	perilipin 2 [Source:MGI Symbol;Acc:MGI:87920]	decreased epididymal fat pad weight		Plin2
+ENSMUSG00000028494	perilipin 2 [Source:MGI Symbol;Acc:MGI:87920]	chromosomal instability		Plin2
+ENSMUSG00000028494	perilipin 2 [Source:MGI Symbol;Acc:MGI:87920]	increased chromosomal stability		Plin2
+ENSMUSG00000028494	perilipin 2 [Source:MGI Symbol;Acc:MGI:87920]	sebaceous gland hypoplasia		Plin2
+ENSMUSG00000028494	perilipin 2 [Source:MGI Symbol;Acc:MGI:87920]	abnormal milk composition		Plin2
+ENSMUSG00000028494	perilipin 2 [Source:MGI Symbol;Acc:MGI:87920]	abnormal sebaceous gland physiology		Plin2
+ENSMUSG00000028494	perilipin 2 [Source:MGI Symbol;Acc:MGI:87920]	small sebaceous gland		Plin2
+ENSMUSG00000028494	perilipin 2 [Source:MGI Symbol;Acc:MGI:87920]	delayed dark adaptation		Plin2
+ENSMUSG00000028494	perilipin 2 [Source:MGI Symbol;Acc:MGI:87920]	abnormal eye electrophysiology		Plin2
+ENSMUSG00000028494	perilipin 2 [Source:MGI Symbol;Acc:MGI:87920]	abnormal vitamin A metabolism		Plin2
+ENSMUSG00000081169	predicted gene 12551 [Source:MGI Symbol;Acc:MGI:3651664]			Gm12551
+ENSMUSG00000085108	stablizer of axonemal microtubules 1, opposite strand [Source:MGI Symbol;Acc:MGI:1922138]			Saxo1os
+ENSMUSG00000070934	Ras-related GTP binding A [Source:MGI Symbol;Acc:MGI:1915691]	abnormal autophagy		Rraga
+ENSMUSG00000070934	Ras-related GTP binding A [Source:MGI Symbol;Acc:MGI:1915691]	increased sensitivity to induced morbidity/mortality		Rraga
+ENSMUSG00000070934	Ras-related GTP binding A [Source:MGI Symbol;Acc:MGI:1915691]	hypoglycemia		Rraga
+ENSMUSG00000070934	Ras-related GTP binding A [Source:MGI Symbol;Acc:MGI:1915691]	neonatal lethality complete penetrance		Rraga
+ENSMUSG00000070934	Ras-related GTP binding A [Source:MGI Symbol;Acc:MGI:1915691]	abnormal glycogen homeostasis		Rraga
+ENSMUSG00000070934	Ras-related GTP binding A [Source:MGI Symbol;Acc:MGI:1915691]	abnormal gluconeogenesis		Rraga
+ENSMUSG00000070934	Ras-related GTP binding A [Source:MGI Symbol;Acc:MGI:1915691]	abnormal circulating amino acid level		Rraga
+ENSMUSG00000070934	Ras-related GTP binding A [Source:MGI Symbol;Acc:MGI:1915691]	decreased birth weight		Rraga
+ENSMUSG00000038047	HAUS augmin-like complex, subunit 6 [Source:MGI Symbol;Acc:MGI:1923389]			Haus6
+ENSMUSG00000083272	predicted gene 12550 [Source:MGI Symbol;Acc:MGI:3651460]			Gm12550
+ENSMUSG00000028492	stablizer of axonemal microtubules 1 [Source:MGI Symbol;Acc:MGI:1923061]			Saxo1
