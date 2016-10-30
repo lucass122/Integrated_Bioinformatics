@@ -1,0 +1,100 @@
+Phenotype description	Gene Start (bp)	Gene End (bp)	Associated Gene Name	Description	Ensembl Gene ID
+	70878078	71393284	Gm26561	predicted gene, 26561 [Source:MGI Symbol;Acc:MGI:5477055]	ENSMUSG00000097625
+	71019521	71126856	Myom1	myomesin 1 [Source:MGI Symbol;Acc:MGI:1341430]	ENSMUSG00000024049
+	71781947	71858351	Clip4	CAP-GLY domain containing linker protein family, member 4 [Source:MGI Symbol;Acc:MGI:1919100]	ENSMUSG00000024059
+	71640879	71640956	Snord53	small nucleolar RNA, C/D box 53 [Source:MGI Symbol;Acc:MGI:3819542]	ENSMUSG00000092887
+	71506436	71506543	Gm23115	predicted gene, 23115 [Source:MGI Symbol;Acc:MGI:5452892]	ENSMUSG00000089105
+abnormal response to injury	71252176	71310965	Emilin2	elastin microfibril interfacer 2 [Source:MGI Symbol;Acc:MGI:2389136]	ENSMUSG00000024053
+abnormal blood coagulation	71252176	71310965	Emilin2	elastin microfibril interfacer 2 [Source:MGI Symbol;Acc:MGI:2389136]	ENSMUSG00000024053
+decreased platelet aggregation	71252176	71310965	Emilin2	elastin microfibril interfacer 2 [Source:MGI Symbol;Acc:MGI:2389136]	ENSMUSG00000024053
+Sertoli cell hypoplasia	71869442	72603709	Alk	anaplastic lymphoma kinase [Source:MGI Symbol;Acc:MGI:103305]	ENSMUSG00000055471
+decreased circulating testosterone level	71869442	72603709	Alk	anaplastic lymphoma kinase [Source:MGI Symbol;Acc:MGI:103305]	ENSMUSG00000055471
+small testis	71869442	72603709	Alk	anaplastic lymphoma kinase [Source:MGI Symbol;Acc:MGI:103305]	ENSMUSG00000055471
+increased testis apoptosis	71869442	72603709	Alk	anaplastic lymphoma kinase [Source:MGI Symbol;Acc:MGI:103305]	ENSMUSG00000055471
+abnormal hypothalamus secretion	71869442	72603709	Alk	anaplastic lymphoma kinase [Source:MGI Symbol;Acc:MGI:103305]	ENSMUSG00000055471
+delayed male fertility	71869442	72603709	Alk	anaplastic lymphoma kinase [Source:MGI Symbol;Acc:MGI:103305]	ENSMUSG00000055471
+delayed sexual maturation	71869442	72603709	Alk	anaplastic lymphoma kinase [Source:MGI Symbol;Acc:MGI:103305]	ENSMUSG00000055471
+slow postnatal weight gain	71869442	72603709	Alk	anaplastic lymphoma kinase [Source:MGI Symbol;Acc:MGI:103305]	ENSMUSG00000055471
+delayed balanopreputial separation	71869442	72603709	Alk	anaplastic lymphoma kinase [Source:MGI Symbol;Acc:MGI:103305]	ENSMUSG00000055471
+abnormal seminiferous tubule morphology	71869442	72603709	Alk	anaplastic lymphoma kinase [Source:MGI Symbol;Acc:MGI:103305]	ENSMUSG00000055471
+decreased body weight	71869442	72603709	Alk	anaplastic lymphoma kinase [Source:MGI Symbol;Acc:MGI:103305]	ENSMUSG00000055471
+abnormal male germ cell morphology	71869442	72603709	Alk	anaplastic lymphoma kinase [Source:MGI Symbol;Acc:MGI:103305]	ENSMUSG00000055471
+decreased testis weight	71869442	72603709	Alk	anaplastic lymphoma kinase [Source:MGI Symbol;Acc:MGI:103305]	ENSMUSG00000055471
+abnormal sperm number	71869442	72603709	Alk	anaplastic lymphoma kinase [Source:MGI Symbol;Acc:MGI:103305]	ENSMUSG00000055471
+abnormal hypothalamus morphology	71869442	72603709	Alk	anaplastic lymphoma kinase [Source:MGI Symbol;Acc:MGI:103305]	ENSMUSG00000055471
+increased alcohol consumption	71869442	72603709	Alk	anaplastic lymphoma kinase [Source:MGI Symbol;Acc:MGI:103305]	ENSMUSG00000055471
+enhanced behavioral response to alcohol	71869442	72603709	Alk	anaplastic lymphoma kinase [Source:MGI Symbol;Acc:MGI:103305]	ENSMUSG00000055471
+	71641584	71641659	Gm22858	predicted gene, 22858 [Source:MGI Symbol;Acc:MGI:5452635]	ENSMUSG00000092713
+	71631281	71631365	Snord92	small nucleolar RNA, C/D box 92 [Source:MGI Symbol;Acc:MGI:3819565]	ENSMUSG00000093289
+	71616215	71659031	Wdr43	WD repeat domain 43 [Source:MGI Symbol;Acc:MGI:1919765]	ENSMUSG00000041057
+photoreceptor cell outer segment organization	71743557	71752885	BC027072	cDNA sequence BC027072 [Source:MGI Symbol;Acc:MGI:2385061]	ENSMUSG00000044375
+protein localization to photoreceptor outer segment	71743557	71752885	BC027072	cDNA sequence BC027072 [Source:MGI Symbol;Acc:MGI:2385061]	ENSMUSG00000044375
+disorganized photoreceptor outer segment	71743557	71752885	BC027072	cDNA sequence BC027072 [Source:MGI Symbol;Acc:MGI:2385061]	ENSMUSG00000044375
+abnormal rod electrophysiology	71743557	71752885	BC027072	cDNA sequence BC027072 [Source:MGI Symbol;Acc:MGI:2385061]	ENSMUSG00000044375
+abnormal retinal pigment epithelium morphology	71743557	71752885	BC027072	cDNA sequence BC027072 [Source:MGI Symbol;Acc:MGI:2385061]	ENSMUSG00000044375
+retinal cone cell degeneration	71743557	71752885	BC027072	cDNA sequence BC027072 [Source:MGI Symbol;Acc:MGI:2385061]	ENSMUSG00000044375
+abnormal electroretinogram waveform feature	71743557	71752885	BC027072	cDNA sequence BC027072 [Source:MGI Symbol;Acc:MGI:2385061]	ENSMUSG00000044375
+abnormal photoreceptor connecting cilium morphology	71743557	71752885	BC027072	cDNA sequence BC027072 [Source:MGI Symbol;Acc:MGI:2385061]	ENSMUSG00000044375
+retinal outer nuclear layer degeneration	71743557	71752885	BC027072	cDNA sequence BC027072 [Source:MGI Symbol;Acc:MGI:2385061]	ENSMUSG00000044375
+thin retinal outer nuclear layer	71743557	71752885	BC027072	cDNA sequence BC027072 [Source:MGI Symbol;Acc:MGI:2385061]	ENSMUSG00000044375
+abnormal microglial cell activation	71743557	71752885	BC027072	cDNA sequence BC027072 [Source:MGI Symbol;Acc:MGI:2385061]	ENSMUSG00000044375
+photoreceptor outer segment degeneration	71743557	71752885	BC027072	cDNA sequence BC027072 [Source:MGI Symbol;Acc:MGI:2385061]	ENSMUSG00000044375
+abnormal photoreceptor inner segment morphology	71743557	71752885	BC027072	cDNA sequence BC027072 [Source:MGI Symbol;Acc:MGI:2385061]	ENSMUSG00000044375
+abnormal retinal outer nuclear layer morphology	71743557	71752885	BC027072	cDNA sequence BC027072 [Source:MGI Symbol;Acc:MGI:2385061]	ENSMUSG00000044375
+retinal degeneration	71743557	71752885	BC027072	cDNA sequence BC027072 [Source:MGI Symbol;Acc:MGI:2385061]	ENSMUSG00000044375
+abnormal cone electrophysiology	71743557	71752885	BC027072	cDNA sequence BC027072 [Source:MGI Symbol;Acc:MGI:2385061]	ENSMUSG00000044375
+short photoreceptor outer segment	71743557	71752885	BC027072	cDNA sequence BC027072 [Source:MGI Symbol;Acc:MGI:2385061]	ENSMUSG00000044375
+retinal gliosis	71743557	71752885	BC027072	cDNA sequence BC027072 [Source:MGI Symbol;Acc:MGI:2385061]	ENSMUSG00000044375
+decreased a wave amplitude	71743557	71752885	BC027072	cDNA sequence BC027072 [Source:MGI Symbol;Acc:MGI:2385061]	ENSMUSG00000044375
+decreased b wave amplitude	71743557	71752885	BC027072	cDNA sequence BC027072 [Source:MGI Symbol;Acc:MGI:2385061]	ENSMUSG00000044375
+abnormal retinal pigmentation	71743557	71752885	BC027072	cDNA sequence BC027072 [Source:MGI Symbol;Acc:MGI:2385061]	ENSMUSG00000044375
+	71496100	71526857	Ndc80	NDC80 kinetochore complex component [Source:MGI Symbol;Acc:MGI:1914302]	ENSMUSG00000024056
+	71673261	71729669	Fam179a	family with sequence similarity 179, member A [Source:MGI Symbol;Acc:MGI:2443498]	ENSMUSG00000045761
+	71716849	71717817	Gm15641	predicted gene 15641 [Source:MGI Symbol;Acc:MGI:3783085]	ENSMUSG00000089779
+	71458327	71460395	Gm4707	predicted gene 4707 [Source:MGI Symbol;Acc:MGI:3782887]	ENSMUSG00000091831
+	71366052	71368836	Gm37639	predicted gene, 37639 [Source:MGI Symbol;Acc:MGI:5610867]	ENSMUSG00000102863
+dosage compensation by inactivation of X chromosome	71344489	71475343	Smchd1	SMC hinge domain containing 1 [Source:MGI Symbol;Acc:MGI:1921605]	ENSMUSG00000024054
+inactivation of X chromosome by DNA methylation	71344489	71475343	Smchd1	SMC hinge domain containing 1 [Source:MGI Symbol;Acc:MGI:1921605]	ENSMUSG00000024054
+embryonic lethality during organogenesis incomplete penetrance	71344489	71475343	Smchd1	SMC hinge domain containing 1 [Source:MGI Symbol;Acc:MGI:1921605]	ENSMUSG00000024054
+abnormal DNA methylation	71344489	71475343	Smchd1	SMC hinge domain containing 1 [Source:MGI Symbol;Acc:MGI:1921605]	ENSMUSG00000024054
+abnormal maternal decidual layer morphology	71344489	71475343	Smchd1	SMC hinge domain containing 1 [Source:MGI Symbol;Acc:MGI:1921605]	ENSMUSG00000024054
+abnormal trophoblast layer morphology	71344489	71475343	Smchd1	SMC hinge domain containing 1 [Source:MGI Symbol;Acc:MGI:1921605]	ENSMUSG00000024054
+abnormal trophoblast giant cell morphology	71344489	71475343	Smchd1	SMC hinge domain containing 1 [Source:MGI Symbol;Acc:MGI:1921605]	ENSMUSG00000024054
+abnormal imprinting	71344489	71475343	Smchd1	SMC hinge domain containing 1 [Source:MGI Symbol;Acc:MGI:1921605]	ENSMUSG00000024054
+	71391838	71393284	Gm38220	predicted gene, 38220 [Source:MGI Symbol;Acc:MGI:5611448]	ENSMUSG00000103558
+	71557027	71598755	Trmt61b	tRNA methyltransferase 61B [Source:MGI Symbol;Acc:MGI:1916039]	ENSMUSG00000085492
+	71526896	71556543	Mettl4-ps1	methyltransferase like 4, pseudogene 1 [Source:MGI Symbol;Acc:MGI:3779337]	ENSMUSG00000079356
+	71552061	71589533	Spdya	speedy/RINGO cell cycle regulator family, member A [Source:MGI Symbol;Acc:MGI:1918141]	ENSMUSG00000052525
+decreased lean body mass	71182560	71249817	Lpin2	lipin 2 [Source:MGI Symbol;Acc:MGI:1891341]	ENSMUSG00000024052
+decreased fasted circulating glucose level	71182560	71249817	Lpin2	lipin 2 [Source:MGI Symbol;Acc:MGI:1891341]	ENSMUSG00000024052
+anemia	71182560	71249817	Lpin2	lipin 2 [Source:MGI Symbol;Acc:MGI:1891341]	ENSMUSG00000024052
+abnormal erythrocyte morphology	71182560	71249817	Lpin2	lipin 2 [Source:MGI Symbol;Acc:MGI:1891341]	ENSMUSG00000024052
+impaired balance	71182560	71249817	Lpin2	lipin 2 [Source:MGI Symbol;Acc:MGI:1891341]	ENSMUSG00000024052
+increased red blood cell distribution width	71182560	71249817	Lpin2	lipin 2 [Source:MGI Symbol;Acc:MGI:1891341]	ENSMUSG00000024052
+increased liver triglyceride level	71182560	71249817	Lpin2	lipin 2 [Source:MGI Symbol;Acc:MGI:1891341]	ENSMUSG00000024052
+abnormal cerebellar Purkinje cell layer	71182560	71249817	Lpin2	lipin 2 [Source:MGI Symbol;Acc:MGI:1891341]	ENSMUSG00000024052
+decreased eosinophil cell number	71182560	71249817	Lpin2	lipin 2 [Source:MGI Symbol;Acc:MGI:1891341]	ENSMUSG00000024052
+thrombocytosis	71182560	71249817	Lpin2	lipin 2 [Source:MGI Symbol;Acc:MGI:1891341]	ENSMUSG00000024052
+increased mean platelet volume	71182560	71249817	Lpin2	lipin 2 [Source:MGI Symbol;Acc:MGI:1891341]	ENSMUSG00000024052
+decreased total body fat amount	71182560	71249817	Lpin2	lipin 2 [Source:MGI Symbol;Acc:MGI:1891341]	ENSMUSG00000024052
+tremors	71182560	71249817	Lpin2	lipin 2 [Source:MGI Symbol;Acc:MGI:1891341]	ENSMUSG00000024052
+decreased circulating free fatty acid level	71182560	71249817	Lpin2	lipin 2 [Source:MGI Symbol;Acc:MGI:1891341]	ENSMUSG00000024052
+ataxia	71182560	71249817	Lpin2	lipin 2 [Source:MGI Symbol;Acc:MGI:1891341]	ENSMUSG00000024052
+abnormal enzyme/coenzyme activity	71182560	71249817	Lpin2	lipin 2 [Source:MGI Symbol;Acc:MGI:1891341]	ENSMUSG00000024052
+decreased hemoglobin content	71182560	71249817	Lpin2	lipin 2 [Source:MGI Symbol;Acc:MGI:1891341]	ENSMUSG00000024052
+abnormal cerebellum morphology	71182560	71249817	Lpin2	lipin 2 [Source:MGI Symbol;Acc:MGI:1891341]	ENSMUSG00000024052
+decreased circulating triglyceride level	71182560	71249817	Lpin2	lipin 2 [Source:MGI Symbol;Acc:MGI:1891341]	ENSMUSG00000024052
+decreased eosinophil cell number	71182560	71249817	Lpin2	lipin 2 [Source:MGI Symbol;Acc:MGI:1891341]	ENSMUSG00000024052
+decreased eosinophil cell number	71182560	71249817	Lpin2	lipin 2 [Source:MGI Symbol;Acc:MGI:1891341]	ENSMUSG00000024052
+increased mean platelet volume	71182560	71249817	Lpin2	lipin 2 [Source:MGI Symbol;Acc:MGI:1891341]	ENSMUSG00000024052
+increased mean platelet volume	71182560	71249817	Lpin2	lipin 2 [Source:MGI Symbol;Acc:MGI:1891341]	ENSMUSG00000024052
+decreased lean body mass	71182560	71249817	Lpin2	lipin 2 [Source:MGI Symbol;Acc:MGI:1891341]	ENSMUSG00000024052
+decreased lean body mass	71182560	71249817	Lpin2	lipin 2 [Source:MGI Symbol;Acc:MGI:1891341]	ENSMUSG00000024052
+hydrometra	71182560	71249817	Lpin2	lipin 2 [Source:MGI Symbol;Acc:MGI:1891341]	ENSMUSG00000024052
+enlarged lymph nodes	71182560	71249817	Lpin2	lipin 2 [Source:MGI Symbol;Acc:MGI:1891341]	ENSMUSG00000024052
+decreased total body fat amount	71182560	71249817	Lpin2	lipin 2 [Source:MGI Symbol;Acc:MGI:1891341]	ENSMUSG00000024052
+decreased total body fat amount	71182560	71249817	Lpin2	lipin 2 [Source:MGI Symbol;Acc:MGI:1891341]	ENSMUSG00000024052
+thrombocytosis	71182560	71249817	Lpin2	lipin 2 [Source:MGI Symbol;Acc:MGI:1891341]	ENSMUSG00000024052
+thrombocytosis	71182560	71249817	Lpin2	lipin 2 [Source:MGI Symbol;Acc:MGI:1891341]	ENSMUSG00000024052
+increased red blood cell distribution width	71182560	71249817	Lpin2	lipin 2 [Source:MGI Symbol;Acc:MGI:1891341]	ENSMUSG00000024052
+increased red blood cell distribution width	71182560	71249817	Lpin2	lipin 2 [Source:MGI Symbol;Acc:MGI:1891341]	ENSMUSG00000024052

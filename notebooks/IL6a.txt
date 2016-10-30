@@ -1,0 +1,93 @@
+Phenotype description	Gene Start (bp)	Gene End (bp)	Associated Gene Name	Description	Ensembl Gene ID
+	192745571	192745686	Gm22265	predicted gene, 22265 [Source:MGI Symbol;Acc:MGI:5452042]	ENSMUSG00000094131
+	191772721	191772834	Gm26203	predicted gene, 26203 [Source:MGI Symbol;Acc:MGI:5455980]	ENSMUSG00000064845
+	191998554	191998634	Mir3473c	microRNA 3473c [Source:MGI Symbol;Acc:MGI:4950389]	ENSMUSG00000093003
+	191717834	191784255	Lpgat1	lysophosphatidylglycerol acyltransferase 1 [Source:MGI Symbol;Acc:MGI:2446186]	ENSMUSG00000026623
+	191790983	191791314	Gm20203	predicted gene, 20203 [Source:MGI Symbol;Acc:MGI:5012388]	ENSMUSG00000102596
+	191820370	191821993	Gm38037	predicted gene, 38037 [Source:MGI Symbol;Acc:MGI:5611265]	ENSMUSG00000102840
+blastocyst development	191821444	191833050	Nek2	NIMA (never in mitosis gene a)-related expressed kinase 2 [Source:MGI Symbol;Acc:MGI:109359]	ENSMUSG00000026622
+chromosome localization to nuclear envelope involved in homologous chromosome segregation	191821444	191833050	Nek2	NIMA (never in mitosis gene a)-related expressed kinase 2 [Source:MGI Symbol;Acc:MGI:109359]	ENSMUSG00000026622
+mitotic sister chromatid segregation	191821444	191833050	Nek2	NIMA (never in mitosis gene a)-related expressed kinase 2 [Source:MGI Symbol;Acc:MGI:109359]	ENSMUSG00000026622
+abnormal mitotic spindle assembly checkpoint	191821444	191833050	Nek2	NIMA (never in mitosis gene a)-related expressed kinase 2 [Source:MGI Symbol;Acc:MGI:109359]	ENSMUSG00000026622
+hypoactivity	191821444	191833050	Nek2	NIMA (never in mitosis gene a)-related expressed kinase 2 [Source:MGI Symbol;Acc:MGI:109359]	ENSMUSG00000026622
+hypoactivity	191821444	191833050	Nek2	NIMA (never in mitosis gene a)-related expressed kinase 2 [Source:MGI Symbol;Acc:MGI:109359]	ENSMUSG00000026622
+cellular zinc ion homeostasis	191906767	191913247	Slc30a1	solute carrier family 30 (zinc transporter), member 1 [Source:MGI Symbol;Acc:MGI:1345281]	ENSMUSG00000037434
+in utero embryonic development	191906767	191913247	Slc30a1	solute carrier family 30 (zinc transporter), member 1 [Source:MGI Symbol;Acc:MGI:1345281]	ENSMUSG00000037434
+embryonic growth arrest	191906767	191913247	Slc30a1	solute carrier family 30 (zinc transporter), member 1 [Source:MGI Symbol;Acc:MGI:1345281]	ENSMUSG00000037434
+embryonic lethality during organogenesis complete penetrance	191906767	191913247	Slc30a1	solute carrier family 30 (zinc transporter), member 1 [Source:MGI Symbol;Acc:MGI:1345281]	ENSMUSG00000037434
+	191886130	191907527	1700034H15Rik	RIKEN cDNA 1700034H15 gene [Source:MGI Symbol;Acc:MGI:1921515]	ENSMUSG00000055833
+retina development in camera-type eye	191977370	191988283	Rd3	retinal degeneration 3 [Source:MGI Symbol;Acc:MGI:1921273]	ENSMUSG00000049353
+retinal photoreceptor degeneration	191977370	191988283	Rd3	retinal degeneration 3 [Source:MGI Symbol;Acc:MGI:1921273]	ENSMUSG00000049353
+abnormal eye electrophysiology	191977370	191988283	Rd3	retinal degeneration 3 [Source:MGI Symbol;Acc:MGI:1921273]	ENSMUSG00000049353
+absent retinal rod cells	191977370	191988283	Rd3	retinal degeneration 3 [Source:MGI Symbol;Acc:MGI:1921273]	ENSMUSG00000049353
+abnormal retinal photoreceptor layer morphology	191977370	191988283	Rd3	retinal degeneration 3 [Source:MGI Symbol;Acc:MGI:1921273]	ENSMUSG00000049353
+thin retinal outer nuclear layer	191977370	191988283	Rd3	retinal degeneration 3 [Source:MGI Symbol;Acc:MGI:1921273]	ENSMUSG00000049353
+	191986836	191990122	Gm26670	predicted gene, 26670 [Source:MGI Symbol;Acc:MGI:5477164]	ENSMUSG00000097416
+	191992861	191993092	Gm32460	predicted gene, 32460 [Source:MGI Symbol;Acc:MGI:5591619]	ENSMUSG00000102915
+	192073820	192074450	Gm3934	predicted gene 3934 [Source:MGI Symbol;Acc:MGI:3782108]	ENSMUSG00000103653
+	192098546	192138062	Rcor3	REST corepressor 3 [Source:MGI Symbol;Acc:MGI:2441920]	ENSMUSG00000037395
+	192136896	192151026	Gm10516	predicted gene 10516 [Source:MGI Symbol;Acc:MGI:3641979]	ENSMUSG00000097316
+	192136689	192136821	Gm37055	predicted gene, 37055 [Source:MGI Symbol;Acc:MGI:5610283]	ENSMUSG00000102755
+abnormal B cell proliferation	191997205	192092559	Traf5	TNF receptor-associated factor 5 [Source:MGI Symbol;Acc:MGI:107548]	ENSMUSG00000026637
+abnormal humoral immune response	191997205	192092559	Traf5	TNF receptor-associated factor 5 [Source:MGI Symbol;Acc:MGI:107548]	ENSMUSG00000026637
+abnormal T cell proliferation	191997205	192092559	Traf5	TNF receptor-associated factor 5 [Source:MGI Symbol;Acc:MGI:107548]	ENSMUSG00000026637
+decreased IgM level	191997205	192092559	Traf5	TNF receptor-associated factor 5 [Source:MGI Symbol;Acc:MGI:107548]	ENSMUSG00000026637
+decreased IgG1 level	191997205	192092559	Traf5	TNF receptor-associated factor 5 [Source:MGI Symbol;Acc:MGI:107548]	ENSMUSG00000026637
+	192092355	192099628	Gm26879	predicted gene, 26879 [Source:MGI Symbol;Acc:MGI:5477373]	ENSMUSG00000097089
+palmitoyltransferase activity	192496711	192771223	Hhat	hedgehog acyltransferase [Source:MGI Symbol;Acc:MGI:2444681]	ENSMUSG00000037375
+protein palmitoylation	192496711	192771223	Hhat	hedgehog acyltransferase [Source:MGI Symbol;Acc:MGI:2444681]	ENSMUSG00000037375
+smoothened signaling pathway involved in ventral spinal cord interneuron specification	192496711	192771223	Hhat	hedgehog acyltransferase [Source:MGI Symbol;Acc:MGI:2444681]	ENSMUSG00000037375
+abnormal palate development	192496711	192771223	Hhat	hedgehog acyltransferase [Source:MGI Symbol;Acc:MGI:2444681]	ENSMUSG00000037375
+hemorrhage	192496711	192771223	Hhat	hedgehog acyltransferase [Source:MGI Symbol;Acc:MGI:2444681]	ENSMUSG00000037375
+tongue hypoplasia	192496711	192771223	Hhat	hedgehog acyltransferase [Source:MGI Symbol;Acc:MGI:2444681]	ENSMUSG00000037375
+abnormal maxillary prominence morphology	192496711	192771223	Hhat	hedgehog acyltransferase [Source:MGI Symbol;Acc:MGI:2444681]	ENSMUSG00000037375
+abnormal nasal capsule morphology	192496711	192771223	Hhat	hedgehog acyltransferase [Source:MGI Symbol;Acc:MGI:2444681]	ENSMUSG00000037375
+abnormal mandible morphology	192496711	192771223	Hhat	hedgehog acyltransferase [Source:MGI Symbol;Acc:MGI:2444681]	ENSMUSG00000037375
+abnormal midbrain morphology	192496711	192771223	Hhat	hedgehog acyltransferase [Source:MGI Symbol;Acc:MGI:2444681]	ENSMUSG00000037375
+prenatal lethality complete penetrance	192496711	192771223	Hhat	hedgehog acyltransferase [Source:MGI Symbol;Acc:MGI:2444681]	ENSMUSG00000037375
+neonatal lethality complete penetrance	192496711	192771223	Hhat	hedgehog acyltransferase [Source:MGI Symbol;Acc:MGI:2444681]	ENSMUSG00000037375
+disproportionate dwarf	192496711	192771223	Hhat	hedgehog acyltransferase [Source:MGI Symbol;Acc:MGI:2444681]	ENSMUSG00000037375
+holoprosencephaly	192496711	192771223	Hhat	hedgehog acyltransferase [Source:MGI Symbol;Acc:MGI:2444681]	ENSMUSG00000037375
+absent cornea	192496711	192771223	Hhat	hedgehog acyltransferase [Source:MGI Symbol;Acc:MGI:2444681]	ENSMUSG00000037375
+abnormal mouth morphology	192496711	192771223	Hhat	hedgehog acyltransferase [Source:MGI Symbol;Acc:MGI:2444681]	ENSMUSG00000037375
+abnormal forebrain morphology	192496711	192771223	Hhat	hedgehog acyltransferase [Source:MGI Symbol;Acc:MGI:2444681]	ENSMUSG00000037375
+abnormal optic vesicle formation	192496711	192771223	Hhat	hedgehog acyltransferase [Source:MGI Symbol;Acc:MGI:2444681]	ENSMUSG00000037375
+abnormal nasal cavity morphology	192496711	192771223	Hhat	hedgehog acyltransferase [Source:MGI Symbol;Acc:MGI:2444681]	ENSMUSG00000037375
+microphthalmia	192496711	192771223	Hhat	hedgehog acyltransferase [Source:MGI Symbol;Acc:MGI:2444681]	ENSMUSG00000037375
+small basioccipital bone	192496711	192771223	Hhat	hedgehog acyltransferase [Source:MGI Symbol;Acc:MGI:2444681]	ENSMUSG00000037375
+absent nasal septum	192496711	192771223	Hhat	hedgehog acyltransferase [Source:MGI Symbol;Acc:MGI:2444681]	ENSMUSG00000037375
+absent supraoccipital bone	192496711	192771223	Hhat	hedgehog acyltransferase [Source:MGI Symbol;Acc:MGI:2444681]	ENSMUSG00000037375
+absent tooth primordium	192496711	192771223	Hhat	hedgehog acyltransferase [Source:MGI Symbol;Acc:MGI:2444681]	ENSMUSG00000037375
+small exoccipital bone	192496711	192771223	Hhat	hedgehog acyltransferase [Source:MGI Symbol;Acc:MGI:2444681]	ENSMUSG00000037375
+abnormal cranium morphology	192496711	192771223	Hhat	hedgehog acyltransferase [Source:MGI Symbol;Acc:MGI:2444681]	ENSMUSG00000037375
+absent parietal bone	192496711	192771223	Hhat	hedgehog acyltransferase [Source:MGI Symbol;Acc:MGI:2444681]	ENSMUSG00000037375
+acrania	192496711	192771223	Hhat	hedgehog acyltransferase [Source:MGI Symbol;Acc:MGI:2444681]	ENSMUSG00000037375
+decreased embryo size	192496711	192771223	Hhat	hedgehog acyltransferase [Source:MGI Symbol;Acc:MGI:2444681]	ENSMUSG00000037375
+abnormal spinal cord interneuron morphology	192496711	192771223	Hhat	hedgehog acyltransferase [Source:MGI Symbol;Acc:MGI:2444681]	ENSMUSG00000037375
+abnormal cartilage development	192496711	192771223	Hhat	hedgehog acyltransferase [Source:MGI Symbol;Acc:MGI:2444681]	ENSMUSG00000037375
+oligodactyly	192496711	192771223	Hhat	hedgehog acyltransferase [Source:MGI Symbol;Acc:MGI:2444681]	ENSMUSG00000037375
+absent floor plate	192496711	192771223	Hhat	hedgehog acyltransferase [Source:MGI Symbol;Acc:MGI:2444681]	ENSMUSG00000037375
+decreased motor neuron number	192496711	192771223	Hhat	hedgehog acyltransferase [Source:MGI Symbol;Acc:MGI:2444681]	ENSMUSG00000037375
+chondrodystrophy	192496711	192771223	Hhat	hedgehog acyltransferase [Source:MGI Symbol;Acc:MGI:2444681]	ENSMUSG00000037375
+small embryonic telencephalon	192496711	192771223	Hhat	hedgehog acyltransferase [Source:MGI Symbol;Acc:MGI:2444681]	ENSMUSG00000037375
+absent mandible	192496711	192771223	Hhat	hedgehog acyltransferase [Source:MGI Symbol;Acc:MGI:2444681]	ENSMUSG00000037375
+abnormal palatal shelf elevation	192496711	192771223	Hhat	hedgehog acyltransferase [Source:MGI Symbol;Acc:MGI:2444681]	ENSMUSG00000037375
+diencephalon hypoplasia	192496711	192771223	Hhat	hedgehog acyltransferase [Source:MGI Symbol;Acc:MGI:2444681]	ENSMUSG00000037375
+abnormal neural crest morphology	192496711	192771223	Hhat	hedgehog acyltransferase [Source:MGI Symbol;Acc:MGI:2444681]	ENSMUSG00000037375
+failure of bone ossification	192496711	192771223	Hhat	hedgehog acyltransferase [Source:MGI Symbol;Acc:MGI:2444681]	ENSMUSG00000037375
+abnormal eye development	192496711	192771223	Hhat	hedgehog acyltransferase [Source:MGI Symbol;Acc:MGI:2444681]	ENSMUSG00000037375
+abnormal neural crest cell morphology	192496711	192771223	Hhat	hedgehog acyltransferase [Source:MGI Symbol;Acc:MGI:2444681]	ENSMUSG00000037375
+abnormal mandibular prominence morphology	192496711	192771223	Hhat	hedgehog acyltransferase [Source:MGI Symbol;Acc:MGI:2444681]	ENSMUSG00000037375
+abnormal vertebral column morphology	192496711	192771223	Hhat	hedgehog acyltransferase [Source:MGI Symbol;Acc:MGI:2444681]	ENSMUSG00000037375
+absent interparietal bone	192496711	192771223	Hhat	hedgehog acyltransferase [Source:MGI Symbol;Acc:MGI:2444681]	ENSMUSG00000037375
+abnormal frontonasal prominence morphology	192496711	192771223	Hhat	hedgehog acyltransferase [Source:MGI Symbol;Acc:MGI:2444681]	ENSMUSG00000037375
+edema	192496711	192771223	Hhat	hedgehog acyltransferase [Source:MGI Symbol;Acc:MGI:2444681]	ENSMUSG00000037375
+hyperactivity	192190774	192510159	Kcnh1	potassium voltage-gated channel, subfamily H (eag-related), member 1 [Source:MGI Symbol;Acc:MGI:1341721]	ENSMUSG00000058248
+abnormal behavior	192190774	192510159	Kcnh1	potassium voltage-gated channel, subfamily H (eag-related), member 1 [Source:MGI Symbol;Acc:MGI:1341721]	ENSMUSG00000058248
+abnormal depression-related behavior	192190774	192510159	Kcnh1	potassium voltage-gated channel, subfamily H (eag-related), member 1 [Source:MGI Symbol;Acc:MGI:1341721]	ENSMUSG00000058248
+	192820674	192821127	Gm38360	predicted gene, 38360 [Source:MGI Symbol;Acc:MGI:5611588]	ENSMUSG00000103874
+	192833118	192835214	A730013G03Rik	RIKEN cDNA A730013G03 gene [Source:MGI Symbol;Acc:MGI:2445118]	ENSMUSG00000047384
+	192841661	192842740	1700065J18Rik	RIKEN cDNA 1700065J18 gene [Source:MGI Symbol;Acc:MGI:1920705]	ENSMUSG00000100872
+	192844488	192855756	Sertad4	SERTA domain containing 4 [Source:MGI Symbol;Acc:MGI:2443496]	ENSMUSG00000016262
+	192854923	192856246	Gm15867	predicted gene 15867 [Source:MGI Symbol;Acc:MGI:3801862]	ENSMUSG00000089812
+	191762200	191762303	Gm22446	predicted gene, 22446 [Source:MGI Symbol;Acc:MGI:5452223]	ENSMUSG00000095504
